@@ -36,27 +36,36 @@ These are not required but make your printer work much better and easier:
 
 ### My Further Planned Upgrades
 These are nice to have and not required at all
-- $40 Dual z-axis for ender 3 pro
-- $85 Direct Drive Extruder.
+- $40 Dual z-axis for ender 3 pro: https://www.amazon.com/dp/B08S71B4R9?psc=1&ref=ppx_yo2_dt_b_product_details
+- $85 Direct Drive Extruder: https://www.amazon.com/gp/product/B098TZ2PYK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
+- $?  RBG Lights: 
 
-## Other Printers
-Other FDM printers:If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
+## Resin Printer
+I am looing at getting a printer like this one for printing minis and small parts: https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer
+
+## Other Printers Of Note
+If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
 
 ## Stuff to print
-Found this source of free minis to print. I know there are tons more out there
+Hero Forge has a great tool for designing custom gaming minis that you can download at STL files for your slicer.
+- https://heroforge.com/
+Eldritch Foundry is super cool
+- https://eldritch-foundry.com/
+My Mini Factory has tons of free minis to print. 
 - https://www.myminifactory.com/
-  - Most of these print best on a resin printer. 
+  
 Here are a few places to get awesome things to print
 - https://thangs.com/
 - https://www.thingiverse.com/
+- https://3dcults.com
 
 ## Software You Will Need
-- Slicer
-  - Cura https://ultimaker.com/software/ultimaker-cura
+- Slicers
+  - Cura https://ultimaker.com/software/ultimaker-cura  
   - Super Slicer https://github.com/supermerill/SuperSlicer/releases
-    - Goto Assets and choose your OS.
+    - Goto Assets and choose your OS.    
 - Octoprint 
-  - https://octoprint.org/
+  - https://octoprint.org/ 
 - RaspberryPi Image Burner 
   - https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/
     
