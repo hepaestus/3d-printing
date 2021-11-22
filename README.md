@@ -1,4 +1,4 @@
-# 3d-printing (November 2021)
+# 3d-printing (Updated November 22 2021)
 
 Before you choose a 3d printer you should think ahead about what you want to print. Minis and jewelry and small parts are great for a resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM printer. 
 
@@ -21,10 +21,10 @@ So far, I have an FDM printer, and it is pretty great. I have fun printing all s
   - $209 https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer
     - 3dPrinter, comes as a kit you have to assemble. This will make you familiar with it and you will be better later for installing upgrades 
 
-### Upgrades:
+### Current Ender 3 Pro Upgrades:
 These are not required but make your printer work much better and easier:
 - Bed Leveling Sensor ![BL Touch Sensor Kit](https://m.media-amazon.com/images/I/71xK2H+qLcL._SL1500_.jpg )
- - $50 https://www.creality3dofficial.com/products/creality-bl-touch
+  - $50 https://www.creality3dofficial.com/products/creality-bl-touch
 - Tempered Glass Build Plate
   - $30 https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface
 - 4.2.7 control board ![4.2.7 Silent Control Board](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/V4.2.7_3-EN_1024x1024@2x.jpg?v=1603705627)
@@ -33,14 +33,17 @@ These are not required but make your printer work much better and easier:
 - Raspbeery Pi print controller ![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
   - $75-$125 https://www.raspberrypi.com/news/8gb-raspberry-pi-4-on-sale-now-at-75/ 
     - To give a web browser interface for control and monitoring I use a raspberry pi and free printer management software: https://octoprint.org/
+- RBG Lights: ![EZNeo RGB Lighting Strip](https://www.th3dstudio.com/wp-content/uploads/2021/07/ezneo_main1.jpg)
+  - $24 https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/
+    - This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
+- Dual Z-Axis ![Dual Z-Axis](https://m.media-amazon.com/images/I/61GZd-QalUS._SL1000_.jpg)
+  - $40 https://www.amazon.com/dp/B08S71B4R9?psc=1&ref=ppx_yo2_dt_b_product_details
 
-### My Further Planned Upgrades
-These are nice to have and not required at all
-- $40 Dual z-axis for ender 3 pro: https://www.amazon.com/dp/B08S71B4R9?psc=1&ref=ppx_yo2_dt_b_product_details
+#### Planned Upgrades
 - $85 Direct Drive Extruder: https://www.amazon.com/gp/product/B098TZ2PYK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
-- $?  RBG Lights: 
 
 ## Resin Printer
+![Photon Resin Printer](https://cdn.shopify.com/s/files/1/0245/5519/2380/products/Photon_7_1800x1800.jpg?v=1586489285)
 I am looing at getting a printer like this one for printing minis and small parts: https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer
 
 ## Other Printers Of Note
@@ -60,13 +63,14 @@ Here are a few places to get awesome things to print
 - https://3dcults.com
 
 ## Software You Will Need
-- Slicers
-  - Cura https://ultimaker.com/software/ultimaker-cura  
+- Slicers (I have tried)
   - Super Slicer https://github.com/supermerill/SuperSlicer/releases
     - Goto Assets and choose your OS.    
-- Octoprint 
-  - https://octoprint.org/ 
-- RaspberryPi Image Burner 
-  - https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/
+  - Cura https://ultimaker.com/software/ultimaker-cura  
+- Web Interface 
+  - Octoprint: https://octoprint.org/ 
+    - Current Download: https://octoprint.org/download/
+- SDCard Creation
+  - RaspberryPi Image Burner: https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/
     
 
