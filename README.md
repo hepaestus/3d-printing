@@ -1,4 +1,4 @@
-# 3d-printing (Updated November 22 2021)
+# 3d-printing (Updated December 3rd 2021)
 
 Before you choose a 3d printer you should think ahead about what you want to print. Minis and jewelry and small parts are great for a resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM printer. 
 
@@ -31,20 +31,22 @@ These are not required but make your printer work much better and easier:
   - $40 https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer 
     - This was a great improvement over the stock board it make the printer much quieter and faster. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.   
 - Raspbeery Pi print controller ![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
-  - $75-$125 https://www.raspberrypi.com/news/8gb-raspberry-pi-4-on-sale-now-at-75/ 
+  - $75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
     - To give a web browser interface for control and monitoring I use a raspberry pi and free printer management software: https://octoprint.org/
 - RBG Lights: ![EZNeo RGB Lighting Strip](https://www.th3dstudio.com/wp-content/uploads/2021/07/ezneo_main1.jpg)
   - $24 https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/
     - This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
 - Dual Z-Axis ![Dual Z-Axis](https://m.media-amazon.com/images/I/61GZd-QalUS._SL1000_.jpg)
-  - $40 https://www.amazon.com/dp/B08S71B4R9?psc=1&ref=ppx_yo2_dt_b_product_details
+  - $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
+- OMG EXTRD Direct Drive Extruder ![OMG EXTRUDE](https://m.media-amazon.com/images/I/61bUmHXD7cL._SL1500_.jpg)
+  - $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
 
 #### Planned Upgrades
-- $85 Direct Drive Extruder: https://www.amazon.com/gp/product/B098TZ2PYK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
+- 3d Printed Fan Shroud
 
-## Resin Printer
+## Resin Printers
 ![Photon Resin Printer](https://cdn.shopify.com/s/files/1/0245/5519/2380/products/Photon_7_1800x1800.jpg?v=1586489285)
-I am looing at getting a printer like this one for printing minis and small parts: https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer
+I am getting a printer like this one for printing minis and small parts: https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer. Also getting the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0) which is supposed to make clean up much easier.
 
 ## Other Printers Of Note
 If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
@@ -63,14 +65,32 @@ Here are a few places to get awesome things to print
 - https://3dcults.com
 
 ## Software You Will Need
+You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
+
+Here are two options to try. Both are well supported with tons of video tutorials on youtube.
+- Drawing/Modeling/Drafting Software
+  - Fusion 360 (might be free for personal use)
+    - Parametric Drafting software for creating and editing stl files to print.
+      - https://www.autodesk.com/products/fusion-360/personal
+  - FreeCad (free software)
+    - Open Source (Free) Parametric Drafting software.
+      - https://www.freecadweb.org/
+
+
+Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange then on the print plate and slice. 
 - Slicers (I have tried)
-  - Super Slicer https://github.com/supermerill/SuperSlicer/releases
-    - Goto Assets and choose your OS.    
-  - Cura https://ultimaker.com/software/ultimaker-cura  
-- Web Interface 
-  - Octoprint: https://octoprint.org/ 
-    - Current Download: https://octoprint.org/download/
-- SDCard Creation
-  - RaspberryPi Image Burner: https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/
-    
+  - Super Slicer 
+    - This is an awesome slicer that is easy to use and 
+    - https://github.com/supermerill/SuperSlicer/releases
+      - Goto Assets and choose your OS.    
+  - Cura 
+    - https://ultimaker.com/software/ultimaker-cura
+
+
+Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. 
+
+- Octoprint: https://octoprint.org/ 
+  - [Current Download](https://octoprint.org/download/)
+    - SDCard Creation (for setting up octoprint)
+      - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
 
