@@ -94,3 +94,17 @@ Finally when you are printing you will want the best interface possible. For my 
     - SDCard Creation (for setting up octoprint)
       - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
 
+## How do I do any of this? What do I do first?
+
+* Buy a printer
+  * Assemble the printer 
+* Buy Raspberry Pi, SD Card, Power supply ( if your printer supports Octoprint)
+  * Setup Octoprint
+* Install Software
+  * Drawing Software
+    * Fusion 360
+    * Others?
+  * Slicing Software
+    *  Cura
+    *  Super Slicer
+    *  Photon Workshop
