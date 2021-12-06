@@ -95,26 +95,30 @@ Finally when you are printing you will want the best interface possible. For my 
       - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
 
 ## How do I do any of this? What do I do first?
-1. Buy a printer
-  * Assemble the printer 
-2. Buy Raspberry Pi, SD Card, Power supply ( if your printer supports Octoprint)
-  * Setup Octoprint
-3. Install Software
-  * Drawing Software
-    * Fusion 360
-    * Others?
-  * Slicing Software
-    *  Cura
-    *  Super Slicer
-    *  Photon Workshop (Slicer for Resin Based Printers.)
+1. Buy an [FDM 3d printer](https://www.amazon.com/gp/product/B07BR3F9N6?ie=UTF8&tag=hepaestus-20&camp=1789&linkCode=xm2&creativeASIN=B07BR3F9N6) or buy a [Resin 3d printer](https://www.amazon.com/gp/product/B093SC6TDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B093SC6TDS&linkCode=as2&tag=hepaestus-20&linkId=810d8c7f677357e3159bfeb3a8e36727)
+2. Assemble the printer according to the instructions.
+3. [Buy Raspberry Pi, SD Card, Power supply](https://www.amazon.com/gp/product/B07V5JTMV9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V5JTMV9&linkCode=as2&tag=hepaestus-20&linkId=c66b26ab4414e7a0eabea9f756b3ac70) (If your printer supports Octoprint, the Photon S does not support Octoprint)
+4. [Download and Setup Octoprint](https://octoprint.org/download/). 
+5. Install Software
+
+- Drawing Software
+  - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
+  - [FreeCad](https://www.freecadweb.org/)
+  - Others ???
+- Slicing Software
+  - [Cura](https://ultimaker.com/software/ultimaker-cura)
+  - [Super Slicer](https://github.com/supermerill/SuperSlicer/releases)
+    - Look for your OS and download.
+  - [Photon Workshop](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases) (Slicer for Anycubic Resin Based Printers.)
+    - Came with the printer on the USB stick.
 
 ### Printing Workflow
 Your workflow will be as such:
 1. Create/Download an model in STL format.
 2. Import/Open your stl file in your slicer of choice.
 3. Update your slicer and print settings for this specific file.
-4. Generate GCode with Slicer
-5. Upload GCode to Printer via sneaker-net or Octoprint depending.
+4. Generate your GCode with the Slicer software.
+5. Upload GCode to your Printer via sneaker-net or Octoprint depending on printer.
 6. Print your file!
-7. Remove build plate and clean up your print.
-8. Enjoy!
+7. Remove from build plate and remove supports.
+8. Enjoy your print!
