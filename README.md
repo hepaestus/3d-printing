@@ -95,16 +95,26 @@ Finally when you are printing you will want the best interface possible. For my 
       - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
 
 ## How do I do any of this? What do I do first?
-
-* Buy a printer
+1. Buy a printer
   * Assemble the printer 
-* Buy Raspberry Pi, SD Card, Power supply ( if your printer supports Octoprint)
+2. Buy Raspberry Pi, SD Card, Power supply ( if your printer supports Octoprint)
   * Setup Octoprint
-* Install Software
+3. Install Software
   * Drawing Software
     * Fusion 360
     * Others?
   * Slicing Software
     *  Cura
     *  Super Slicer
-    *  Photon Workshop
+    *  Photon Workshop (Slicer for Resin Based Printers.)
+
+### Printing Workflow
+Your workflow will be as such:
+1. Create/Download an model in STL format.
+2. Import/Open your stl file in your slicer of choice.
+3. Update your slicer and print settings for this specific file.
+4. Generate GCode with Slicer
+5. Upload GCode to Printer via sneaker-net or Octoprint depending.
+6. Print your file!
+7. Remove build plate and clean up your print.
+8. Enjoy!
