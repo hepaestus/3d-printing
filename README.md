@@ -1,4 +1,4 @@
-# 3d-printing (Updated December 3rd 2021)
+# 3d-printing (Updated December 7th 2021)
 
 Before you choose a 3d printer you should think ahead about what you want to print. Minis and jewelry and small parts are great for a resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM printer. 
 
