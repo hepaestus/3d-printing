@@ -52,10 +52,15 @@ I am getting a printer like this one for printing minis and small parts: https:/
 If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
 
 ## Stuff to print
-Hero Forge has a great tool for designing custom gaming minis that you can download at STL files for your slicer.
+For starters try printing a [Benchy](https://www.3dbenchy.com/) ![Benchy](https://www.3dbenchy.com/wp-content/uploads/2015/04/3DBenchy.com_logo_standard_text_250x1001.png)
+Benchy is quick to print and can help fine tune your prints. A good benchy is an indicator of a well set up printer.
+
+Hero Forge has a great tool for designing *custom* gaming minis that you can download at STL files for your slicer. Custom STL files are about $3.50 USD.
 - https://heroforge.com/
-Eldritch Foundry is super cool
+
+Eldritch Foundry is super cool 
 - https://eldritch-foundry.com/
+
 My Mini Factory has tons of free minis to print. 
 - https://www.myminifactory.com/
   
@@ -90,7 +95,7 @@ Once you have a model to print, you will need "Slicer" software to convert your 
 Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. 
 
 - Octoprint: https://octoprint.org/ 
-  - [Current Download](https://octoprint.org/download/)
+  - [Latest Version](https://octoprint.org/download/)
     - SDCard Creation (for setting up octoprint)
       - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
 
@@ -100,7 +105,6 @@ Finally when you are printing you will want the best interface possible. For my 
 3. [Buy Raspberry Pi, SD Card, Power supply](https://www.amazon.com/gp/product/B07V5JTMV9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V5JTMV9&linkCode=as2&tag=hepaestus-20&linkId=c66b26ab4414e7a0eabea9f756b3ac70) (If your printer supports Octoprint, the Photon S does not support Octoprint)
 4. [Download and Setup Octoprint](https://octoprint.org/download/). 
 5. Install Software
-
 - Drawing Software
   - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
   - [FreeCad](https://www.freecadweb.org/)
