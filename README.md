@@ -16,58 +16,79 @@ So far, I have an FDM printer, and it is pretty great. I have fun printing all s
 - This young lady, AuroraTech, is super informative as well.
   - https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA
 
-## My Setup 
-- Ender 3 Pro ![Ender 3 Pro Image](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/KU_RLUV0ZYBV8_BLLV6W9O6_1024x1024.png?v=1603706565)
-  - $209 https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer
-    - 3dPrinter, comes as a kit you have to assemble. This will make you familiar with it and you will be better later for installing upgrades 
+## My FDM Printer Setup
+Ender 3 Pro 
+![Ender 3 Pro Image](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/KU_RLUV0ZYBV8_BLLV6W9O6_1024x1024.png?v=1603706565)
+$209 https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer
+ - 3dPrinter, comes as a kit you have to assemble. This will make you familiar with it and you will be better later for installing upgrades 
 
 ### Current Ender 3 Pro Upgrades:
 These are not required but make your printer work much better and easier:
-- Bed Leveling Sensor ![BL Touch Sensor Kit](https://m.media-amazon.com/images/I/71xK2H+qLcL._SL1500_.jpg )
-  - $50 https://www.creality3dofficial.com/products/creality-bl-touch
-- Tempered Glass Build Plate
-  - $30 https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface
-- 4.2.7 control board ![4.2.7 Silent Control Board](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/V4.2.7_3-EN_1024x1024@2x.jpg?v=1603705627)
-  - $40 https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer 
-    - This was a great improvement over the stock board it make the printer much quieter and faster. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.   
-- Raspbeery Pi print controller ![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
-  - $75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
-    - To give a web browser interface for control and monitoring I use a raspberry pi and free printer management software: https://octoprint.org/
-- RBG Lights: ![EZNeo RGB Lighting Strip](https://www.th3dstudio.com/wp-content/uploads/2021/07/ezneo_main1.jpg)
-  - $24 https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/
-    - This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
-- Dual Z-Axis ![Dual Z-Axis](https://m.media-amazon.com/images/I/61GZd-QalUS._SL1000_.jpg)
-  - $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
-- OMG EXTRD Direct Drive Extruder ![OMG EXTRUDE](https://m.media-amazon.com/images/I/61bUmHXD7cL._SL1500_.jpg)
-  - $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
 
-#### Planned Upgrades
+#### Bed Leveling Sensor
+![BL Touch Sensor Kit](https://m.media-amazon.com/images/I/71xK2H+qLcL._SL1500_.jpg )
+$50 [Affiliate Link](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
+
+#### Tempered Glass Build Plate
+![Creality Tempered Glass Build Plate](https://www.creality3dofficial.com/files/goods/ender3glass9.jpg)
+$20 [Affiliate Link](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
+  
+#### Creality 4.2.7 Silent Control Board
+![4.2.7 Silent Control Board](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/V4.2.7_3-EN_1024x1024@2x.jpg?v=1603705627)
+$50 [Affiliate Link](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1), [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
+- This was a great improvement over the stock board it make the printer much quieter and faster. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.   
+
+#### Dual Z-Axis 
+![Dual Z-Axis](https://m.media-amazon.com/images/I/61GZd-QalUS._SL1000_.jpg)
+$40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
+
+#### OMG EXTRUDE Direct Drive Extruder
+![OMG EXTRUDE](https://m.media-amazon.com/images/I/61bUmHXD7cL._SL1500_.jpg)
+$85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
+
+#### Raspbeery Pi Print Controller 
+If our printer supports it you should set up an Octoprint print server, which can send jobs to yhour printer and basically control all of it s functions.
+![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
+$75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
+- To give a web browser interface for control and monitoring I use a raspberry pi and free printer management software: https://octoprint.org/
+
+#### RBG Lights
+![EZNeo RGB Lighting Strip](https://www.th3dstudio.com/wp-content/uploads/2021/07/ezneo_main1.jpg)
+$24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/)
+- This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
+
+### Planned Upgrades
 - 3d Printed Fan Shroud
 
 ## Resin Printers
 ![Photon Resin Printer](https://cdn.shopify.com/s/files/1/0245/5519/2380/products/Photon_7_1800x1800.jpg?v=1586489285)
-I am getting a printer like this one for printing minis and small parts: https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer. Also getting the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0) which is supposed to make clean up much easier.
+I also have a resin printer like this one for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0).
 
 ## Other Printers Of Note
 If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
 
 ## Stuff to print
-For starters try printing a [Benchy](https://www.3dbenchy.com/) ![Benchy](https://www.3dbenchy.com/wp-content/uploads/2015/04/3DBenchy.com_logo_standard_text_250x1001.png)
-Benchy is quick to print and can help fine tune your prints. A good benchy is an indicator of a well set up printer.
+For starters try printing a [Benchy](https://www.3dbenchy.com/) 
 
+![Benchy](https://www.3dbenchy.com/wp-content/uploads/2015/04/3DBenchy.com_logo_standard_text_250x1001.png)
+- Benchy is quick to print and can help fine tune your prints. A good benchy is an indicator of a well set up printer.
+
+### Tools for Creating Minis
 Hero Forge has a great tool for designing *custom* gaming minis that you can download at STL files for your slicer. Custom STL files are about $3.50 USD.
 - https://heroforge.com/
 
-Eldritch Foundry is super cool 
+Eldritch Foundry also lets you create custom STL files for download.
 - https://eldritch-foundry.com/
 
 My Mini Factory has tons of free minis to print. 
 - https://www.myminifactory.com/
   
+### Sites with paid and free models to print
 Here are a few places to get awesome things to print
 - https://thangs.com/
 - https://www.thingiverse.com/
 - https://3dcults.com
+
 
 ## Software You Will Need
 You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
