@@ -1,4 +1,4 @@
-# 3d-printing (Updated December 10th 2021)
+# 3d-printing (Updated December 11th 2021)
 
 Before you choose a 3d printer you should think ahead about what you want to print. Minis, jewelry, and small parts are great for a resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM printer. 
 
@@ -21,7 +21,7 @@ So far it is pretty great. and I have fun printing all sorts of stuff for fun an
 ## My FDM Printer Setup
 
 ### Ender 3 Pro 
-![Ender 3 Pro Image](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/KU_RLUV0ZYBV8_BLLV6W9O6_1024x1024.png?v=1603706565)
+![Ender 3 Pro](/images/ender3pro.png)
 $209 https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer
 The Ender 3 Pro cames as a kit to assemble. This made me more familiar with it and since I built it I can always fix it. :)
 
@@ -30,34 +30,34 @@ These are not required. I used a stock ender 3 for more than a year before any u
 
 #### Raspbeery Pi With the Octoprint Print Controller
 If our printer supports it you should set up an Octoprint print server. I will send jobs to your printer and basically control all of it's functions remotely and via a web interface.
-![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
+![Rasberry Pi 4 8GB](/images/raspberry-pi-4-b-8g.jpg)
 $75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
 - https://octoprint.org/
 
 #### Bed Leveling Sensor
-![BL Touch Sensor Kit](https://m.media-amazon.com/images/I/71xK2H+qLcL._SL1500_.jpg )
+![BL Touch Sensor Kit](/images/bl-touch.jpg )
 $50 [Affiliate Link](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
 
 #### Tempered Glass Build Plate
-![Creality Tempered Glass Build Plate](https://www.creality3dofficial.com/files/goods/ender3glass9.jpg)
+![Creality Tempered Glass Build Plate](/images/creality-tempered-glass-bed.jpg)
 $20 [Affiliate Link](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
   
 #### Creality 4.2.7 Silent Control Board
-![4.2.7 Silent Control Board](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/V4.2.7_3-EN_1024x1024@2x.jpg?v=1603705627)
+![4.2.7 Silent Control Board](/images/creality-4.2.7-board.jpg)
 $50 [Affiliate Link](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1), [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
 - This was a great improvement over the stock board it make the printer much quieter and faster. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.   
 
 #### Dual Z-Axis 
-![Dual Z-Axis](https://m.media-amazon.com/images/I/61GZd-QalUS._SL1000_.jpg)
+![Dual Z-Axis](/images/dual-z-axis.jpg)
 $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
 - The Ender 3 Printers only have a single Z-Axis and can have a tendancy to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
 
 #### OMG EXTRUDE Direct Drive Extruder
-![OMG EXTRUDE](https://m.media-amazon.com/images/I/61bUmHXD7cL._SL1500_.jpg)
+![OMG EXTRUDE](/images/omg-extrude.jpg)
 $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
 
 #### RBG Lights
-![EZNeo RGB Lighting Strip](https://www.th3dstudio.com/wp-content/uploads/2021/07/ezneo_main1.jpg)
+![EZNeo RGB Lighting Strip](/images/ezneo-rgb-light.jpg)
 $24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/)
 - This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
 
@@ -65,8 +65,12 @@ $24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-ligh
 - 3d Printed Fan Shroud
 
 ## Resin Printers
-![Photon Resin Printer](https://cdn.shopify.com/s/files/1/0245/5519/2380/products/Photon_7_1800x1800.jpg?v=1586489285)
-I also have a resin printer like this one for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0).
+![Photon Resin Printer](/images/anycubic-photon-s.jpg)
+![Wash and Cure 2](/images/anycubic-wash-and-cure-2.jpg)
+I also have a resin printer for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0).
+
+I am currently waiting for the wash and cure to be delivered so I have not used the resin printer as of yet. It's all set up and ready to go.
+
 
 ## Other Printers Of Note
 If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
@@ -153,15 +157,19 @@ Your workflow will be as such:
 5. Upload GCode to your Printer via sneaker-net or Octoprint depending on printer.
 6. Print your file!
 7. Remove from build plate and remove supports.
-8. Enjoy your print!
+8. Clean and Cure Resin
+9. Enjoy your print!
 
 ## Some of my successfull prints
-- Dactyle Manuform Keyboards 
-- The Segmented Slug/Worm
-- Electronics Enclosures 
-- 
+- [Dactyl Manuform Keyboards](https://www.thingiverse.com/thing:3037954)
+- [The Segmented Slug/Worm](https://www.thingiverse.com/thing:4727448)
+- [Temps-O-Matic Enclosures](https://temps-o-matic.com)
+- [Articulated Dragon](https://cults3d.com/en/3d-model/game/articulated-dragon-mcgybeer)
+
 
 ## Future Topics of interest
+What would you like to see more info about?
+
 - 3d Printing Consumables
   - Filaments
     - COEX PLA and PLA Prime 
@@ -169,4 +177,8 @@ Your workflow will be as such:
     - Solutech ABS
   - Resin
     - Anycubic Basic Grey 405nm
+
+## Do You Have A Question? A Comment? Did you find an error?
+If you want to ask a question, comment, or report an error please click
+[here and do your thing](https://github.com/hepaestus/3d-printing/issues/new).
 
