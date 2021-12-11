@@ -1,12 +1,14 @@
-# 3d-printing (Updated December 7th 2021)
+# 3d-printing (Updated December 10th 2021)
 
-Before you choose a 3d printer you should think ahead about what you want to print. Minis and jewelry and small parts are great for a resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM printer. 
+Before you choose a 3d printer you should think ahead about what you want to print. Minis, jewelry, and small parts are great for a resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM printer. 
 
 I am pretty happy with my Ender3Pro. Recently I have upgraded it from the stock model to make it even better. FDM Printers like the Ender3pro are harder to upkeep as they have many moving parts and are quite technical to operate. I have been looking into resin printers for high detail small parts like Dnd Minis and jewelry. Resin printers are fast, easy to use and provide great detail to your prints. They are much simpler than FDM printers as they have far fewer moving parts.
 
-Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman.I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
+Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman. I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
 
-So far, I have an FDM printer, and it is pretty great. I have fun printing all sorts of stuff for fun and profits.
+So far, I have an the most experience with FDM printers and I am just getting started with resin. 
+
+So far it is pretty great. and I have fun printing all sorts of stuff for fun and profits. I have compiled the information here in an effort to help others who are interested in the 3d printing world.
 
 ## Videos/People to watch
 - This is a pretty cool video on getting started with 3d printing
@@ -17,13 +19,20 @@ So far, I have an FDM printer, and it is pretty great. I have fun printing all s
   - https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA
 
 ## My FDM Printer Setup
-Ender 3 Pro 
+
+### Ender 3 Pro 
 ![Ender 3 Pro Image](https://cdn.shopify.com/s/files/1/0508/1494/3382/products/KU_RLUV0ZYBV8_BLLV6W9O6_1024x1024.png?v=1603706565)
 $209 https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer
- - 3dPrinter, comes as a kit you have to assemble. This will make you familiar with it and you will be better later for installing upgrades 
+The Ender 3 Pro cames as a kit to assemble. This made me more familiar with it and since I built it I can always fix it. :)
 
 ### Current Ender 3 Pro Upgrades:
-These are not required but make your printer work much better and easier:
+These are not required. I used a stock ender 3 for more than a year before any upgrades at all. Now I think it performs better and it's super fun to tinker with and improve your printer. Here are the upgrades I have done, in roughly the order I did them.
+
+#### Raspbeery Pi With the Octoprint Print Controller
+If our printer supports it you should set up an Octoprint print server. I will send jobs to your printer and basically control all of it's functions remotely and via a web interface.
+![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
+$75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
+- https://octoprint.org/
 
 #### Bed Leveling Sensor
 ![BL Touch Sensor Kit](https://m.media-amazon.com/images/I/71xK2H+qLcL._SL1500_.jpg )
@@ -41,16 +50,11 @@ $50 [Affiliate Link](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?i
 #### Dual Z-Axis 
 ![Dual Z-Axis](https://m.media-amazon.com/images/I/61GZd-QalUS._SL1000_.jpg)
 $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
+- The Ender 3 Printers only have a single Z-Axis and can have a tendancy to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
 
 #### OMG EXTRUDE Direct Drive Extruder
 ![OMG EXTRUDE](https://m.media-amazon.com/images/I/61bUmHXD7cL._SL1500_.jpg)
 $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
-
-#### Raspbeery Pi Print Controller 
-If our printer supports it you should set up an Octoprint print server, which can send jobs to yhour printer and basically control all of it s functions.
-![Rasberry Pi 4 8GB](https://m.media-amazon.com/images/I/71-2nd6QRnL._AC_SL1400_.jpg)
-$75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
-- To give a web browser interface for control and monitoring I use a raspberry pi and free printer management software: https://octoprint.org/
 
 #### RBG Lights
 ![EZNeo RGB Lighting Strip](https://www.th3dstudio.com/wp-content/uploads/2021/07/ezneo_main1.jpg)
@@ -95,15 +99,15 @@ You can download ready to print files from the internet quite easily, but if you
 
 Here are two options to try. Both are well supported with tons of video tutorials on youtube.
 - Drawing/Modeling/Drafting Software
-  - Fusion 360 (might be free for personal use)
+  - Fusion 360 (might be free for personal use) I have the most experience with this.
     - Parametric Drafting software for creating and editing stl files to print.
       - https://www.autodesk.com/products/fusion-360/personal
-  - FreeCad (free software)
+  - FreeCad (free software) I have never sucessfully used this to create a model. I have not given it the attention I have given Fusion 360.
     - Open Source (Free) Parametric Drafting software.
       - https://www.freecadweb.org/
 
 
-Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange then on the print plate and slice. 
+Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers generally take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange them on the print plate and slice. 
 - Slicers (I have tried)
   - Super Slicer 
     - This is an awesome slicer that is easy to use and 
@@ -113,29 +117,32 @@ Once you have a model to print, you will need "Slicer" software to convert your 
     - https://ultimaker.com/software/ultimaker-cura
 
 
-Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. 
+Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. Watch or check on your print remotely via webcam.
 
 - Octoprint: https://octoprint.org/ 
   - [Latest Version](https://octoprint.org/download/)
     - SDCard Creation (for setting up octoprint)
       - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
 
+
 ## How do I do any of this? What do I do first?
 1. Buy an [FDM 3d printer](https://www.amazon.com/gp/product/B07BR3F9N6?ie=UTF8&tag=hepaestus-20&camp=1789&linkCode=xm2&creativeASIN=B07BR3F9N6) or buy a [Resin 3d printer](https://www.amazon.com/gp/product/B093SC6TDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B093SC6TDS&linkCode=as2&tag=hepaestus-20&linkId=810d8c7f677357e3159bfeb3a8e36727)
 2. Assemble the printer according to the instructions.
-3. [Buy Raspberry Pi, SD Card, Power supply](https://www.amazon.com/gp/product/B07V5JTMV9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V5JTMV9&linkCode=as2&tag=hepaestus-20&linkId=c66b26ab4414e7a0eabea9f756b3ac70) (If your printer supports Octoprint, the Photon S does not support Octoprint)
+3. If your printer supports using one, [buy a Raspberry Pi, SD Card, Power supply](https://www.amazon.com/gp/product/B07V5JTMV9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V5JTMV9&linkCode=as2&tag=hepaestus-20&linkId=c66b26ab4414e7a0eabea9f756b3ac70) (The Photon S does not support Octoprint)
 4. [Download and Setup Octoprint](https://octoprint.org/download/). 
-5. Install Software
+6. Install Software
 - Drawing Software
   - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
   - [FreeCad](https://www.freecadweb.org/)
   - Others ???
 - Slicing Software
-  - [Cura](https://ultimaker.com/software/ultimaker-cura)
-  - [Super Slicer](https://github.com/supermerill/SuperSlicer/releases)
-    - Look for your OS and download.
-  - [Photon Workshop](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases) (Slicer for Anycubic Resin Based Printers.)
-    - Came with the printer on the USB stick.
+  - FDM Slicers  
+    - [Cura](https://ultimaker.com/software/ultimaker-cura)
+    - [Super Slicer](https://github.com/supermerill/SuperSlicer/releases)
+  - Resin printer Slicer
+    - [Photon Workshop](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases) (Slicer for Anycubic Resin Based Printers.)
+      - Came with the printer on the USB stick, but you should get the latest version.
+
 
 ### Printing Workflow
 Your workflow will be as such:
@@ -147,3 +154,19 @@ Your workflow will be as such:
 6. Print your file!
 7. Remove from build plate and remove supports.
 8. Enjoy your print!
+
+## Some of my successfull prints
+- Dactyle Manuform Keyboards 
+- The Segmented Slug/Worm
+- Electronics Enclosures 
+- 
+
+## Future Topics of interest
+- 3d Printing Consumables
+  - Filaments
+    - COEX PLA and PLA Prime 
+    - Matter Hackers Build Filament
+    - Solutech ABS
+  - Resin
+    - Anycubic Basic Grey 405nm
+
