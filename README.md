@@ -32,7 +32,7 @@ Despite all the frustration and difficulty I have a lot of fun printing all sort
 ## My FDM Printer Setup
 
 ### Ender 3 Pro 
-<img alt="Ender 3 Pro" src="/images/ender3pro.png" style="width: 500px;margin: 5 auto">
+<img alt="Ender 3 Pro" src="images/ender3pro.png" style="width: 500px;margin: 5 auto">
 
 $209 The [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) cames as a kit to assemble. This made me more familiar with it and since I built it I can always fix it. :)
 
@@ -42,13 +42,13 @@ These are not required. I used a stock ender 3 for more than a year before any u
 #### Raspbeery Pi With the Octoprint Print Controller
 If our printer supports it, you should set up an Octoprint print server. It provides a web interface to send jobs to your printer and basically control all of it's functions remotely.
 
-<img alt="Rasberry Pi 4 8GB" src="/images/raspberry-pi-4-b-8g.jpg" style="width:40%"/>
+<img alt="Rasberry Pi 4 8GB" src="images/raspberry-pi-4-b-8g.jpg" style="width:40%"/>
 
 $75-$160 [Affiliate link](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
 - Software: https://octoprint.org/
 
 #### Bed Leveling Sensor
-<img alt="BL Touch Sensor Kit" src="/images/bl-touch.jpg" style="width:40%"/>
+<img alt="BL Touch Sensor Kit" src="images/bl-touch.jpg" style="width:40%"/>
 
 $50 [Affiliate Link](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
 - This sensor precisly neasure the distance to your print bed and uses some fancy maths to calculate the flatness of your print bed.
@@ -59,19 +59,19 @@ $50 [Affiliate Link](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?i
 $20 [Affiliate Link](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
   
 #### Creality 4.2.7 Silent Control Board
-<img alt="4.2.7 Silent Control Board" src="/images/creality-4.2.7-board.jpg" style="width: 40%"/>
+<img alt="4.2.7 Silent Control Board" src="images/creality-4.2.7-board.jpg" style="width: 40%"/>
 
 $50 [Affiliate Link](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1) , [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
 - This was the single best upgrade I have made. The upgraded board makes the printer much quieter and faster, pretty much silently running the stepper motors. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.   
 
 #### Dual Z-Axis 
-<img alt="Dual Z-Axis" src="/images/dual-z-axis.jpg" style="width: 40%" />
+<img alt="Dual Z-Axis" src="images/dual-z-axis.jpg" style="width: 40%" />
 
 $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
 - The Ender 3 Printers only have a single Z-Axis and can have a tendancy to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
 
 #### OMG EXTRUDE Direct Drive Extruder
-<img alt="OMG EXTRUDE" src="/images/omg-extrude.jpg" style="width: 40%"/>
+<img alt="OMG EXTRUDE" src="images/omg-extrude.jpg" style="width: 40%"/>
 
 $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
 
@@ -85,7 +85,7 @@ $24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-ligh
 - 3d Printed Fan Shroud that allows for cooling on all sides of the print head. Currently it is one sided :(
 
 ## Resin Printers
-<img src="/images/anycubic-photon-s.jpg" style="width: 40%; float: left; margin: 5px"> <img src="/images/anycubic-wash-and-cure-2.jpg" style="width: 40%; float: left; margin: 5px">
+<img src="images/anycubic-photon-s.jpg" style="width: 40%; float: left; margin: 5px"> <img src="images/anycubic-wash-and-cure-2.jpg" style="width: 40%; float: left; margin: 5px">
 
 I also have a resin printer for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0).
 
