@@ -87,9 +87,7 @@ $24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-ligh
 ## Resin Printers
 <img src="images/anycubic-photon-s.jpg" style="width: 40%; float: left; margin: 5px"> <img src="images/anycubic-wash-and-cure-2.jpg" style="width: 40%; float: left; margin: 5px">
 
-I also have a resin printer for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0).
-
-I am currently waiting for the wash and cure to be delivered so I have not used the resin printer as of yet. It's all set up and ready to go.
+I also have a resin printer for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0). The wash and cure system is really nice and makes clean up much easier.
 
 
 ## Other Printers Of Note
@@ -97,6 +95,8 @@ If you have a larger budget and larger ambitions, and or want to print super lo
 
 ## Stuff to print
 For starters try printing a [Benchy](https://www.3dbenchy.com/) 
+
+![My Benchys](images/benchys.jpg)
 
 ![Benchy](https://www.3dbenchy.com/wp-content/uploads/2015/04/3DBenchy.com_logo_standard_text_250x1001.png)
 - Benchy is quick to print and can help fine tune your prints. A good benchy is an indicator of a well set up printer.
@@ -121,7 +121,7 @@ Here are a few places to get awesome things to print
 ## Software You Will Need
 You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
 
-Here are two options to try. Both are well supported with tons of video tutorials on youtube.
+Here are multiple options to try. These two are well supported with tons of video tutorials on youtube.
 - Drawing/Modeling/Drafting Software
   - Fusion 360 (might be free for personal use) I have the most experience with this.
     - Parametric Drafting software for creating and editing stl files to print.
@@ -133,12 +133,14 @@ Here are two options to try. Both are well supported with tons of video tutorial
 
 Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers generally take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange them on the print plate and slice. 
 - Slicers (I have tried)
-  - Super Slicer 
+  - Super Slicer (based on Slic3r)
     - This is an awesome slicer that is easy to use and 
     - https://github.com/supermerill/SuperSlicer/releases
       - Goto Assets and choose your OS.    
   - Cura 
     - https://ultimaker.com/software/ultimaker-cura
+  - Prusa Slicer (based on Slic3r)
+    - https://www.prusa3d.com/page/prusaslicer_424/
 
 
 Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. Watch or check on your print remotely via webcam.
@@ -154,19 +156,22 @@ Finally when you are printing you will want the best interface possible. For my 
 2. Assemble the printer according to the instructions.
 3. If your printer supports using one, [buy a Raspberry Pi, SD Card, Power supply](https://www.amazon.com/gp/product/B07V5JTMV9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V5JTMV9&linkCode=as2&tag=hepaestus-20&linkId=c66b26ab4414e7a0eabea9f756b3ac70) (The Photon S does not support Octoprint)
 4. [Download and Setup Octoprint](https://octoprint.org/download/). 
-6. Install Software
-- Drawing Software
-  - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
-  - [FreeCad](https://www.freecadweb.org/)
-  - Others ???
-- Slicing Software
-  - FDM Slicers  
-    - [Cura](https://ultimaker.com/software/ultimaker-cura)
-    - [Super Slicer](https://github.com/supermerill/SuperSlicer/releases)
-  - Resin printer Slicer
-    - [Photon Workshop](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases) (Slicer for Anycubic Resin Based Printers.)
-      - Came with the printer on the USB stick, but you should get the latest version.
-
+5. Install Software
+   - Drawing Software
+     - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
+     - [FreeCad](https://www.freecadweb.org/)
+     - Others ???
+   - Slicing Software
+     - FDM Slicers  
+       - [Cura](https://ultimaker.com/software/ultimaker-cura)
+       - [Super Slicer](https://github.com/supermerill/SuperSlicer/releases)
+       - [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
+     - Resin printer Slicer
+       - [Photon Workshop](https://github.com/ANYCUBIC-3D/PhotonWorkshop/releases) (Slicer for Anycubic Resin Based Printers.)
+         - Came with the printer on the USB stick, but you should get the latest version.
+6. Create/Download your model files
+7. Slice the model file to GCode
+8. Upload to your printer and print.
 
 ### Printing Workflow
 Your workflow will be as such:
@@ -186,17 +191,21 @@ Your workflow will be as such:
 - [Temps-O-Matic Enclosures](https://temps-o-matic.com)
 - [Articulated Dragon](https://cults3d.com/en/3d-model/game/articulated-dragon-mcgybeer)
 
+## 3D Printing Consumables
+![Coex PLA](images/coex-pla.jpg)
+![Anycubic Resin](images/anycubic-resin-grey.jpg)
 
-## Future Topics of interest
-What would you like to see more info about?
-
-- 3d Printing Consumables
+- 3d Printing Consumables  
   - Filaments
     - COEX PLA and PLA Prime 
     - Matter Hackers Build Filament
     - Solutech ABS
   - Resin
-    - Anycubic Basic Grey 405nm
+    - [FEP Film for DLP Printing](https://www.anycubic.com/collections/for-photon-series/products/fep-film-for-dlp-photon-printer)
+    - [Anycubic Basic Grey 405nm](https://www.anycubic.com/collections/uv-resin)
+
+## Future Topics of interest
+What would you like to see more info about?
 
 ## Do You Have A Question? A Comment? Did you find an error?
 If you want to ask a question, comment, or report an error please click [here and do your thing](https://github.com/hepaestus/3d-printing/issues/new). Or send an email to [hepaestus@gmail.com](mailto://hepaestus@gmail.com).
