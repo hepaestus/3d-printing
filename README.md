@@ -192,8 +192,7 @@ Your workflow will be as such:
 - [Articulated Dragon](https://cults3d.com/en/3d-model/game/articulated-dragon-mcgybeer)
 
 ## 3D Printing Consumables
-![Coex PLA](images/coex-pla.jpg)
-![Anycubic Resin](images/anycubic-resin-grey.jpg)
+<img alt="Coex PLA" src="images/coex-pla.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/> <img alt="Anycubic Resin" src="images/anycubic-resin-grey.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/>
 
 - 3d Printing Consumables  
   - Filaments
