@@ -199,6 +199,5 @@ What would you like to see more info about?
     - Anycubic Basic Grey 405nm
 
 ## Do You Have A Question? A Comment? Did you find an error?
-If you want to ask a question, comment, or report an error please click
-[here and do your thing](https://github.com/hepaestus/3d-printing/issues/new).
+If you want to ask a question, comment, or report an error please click [here and do your thing](https://github.com/hepaestus/3d-printing/issues/new). Or send an email to [hepaestus@gmail.com](mailto://hepaestus@gmail.com).
 
