@@ -215,15 +215,16 @@ Your workflow will be as such:
 <img alt="Coex PLA" src="images/coex-pla.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/> <img alt="Anycubic Resin" src="images/anycubic-resin-grey.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/>
 
 - 3d Printing Consumables  
-  - FDM
+  - FDM Printers
     - Filaments
       - COEX PLA and PLA Prime 
       - Matter Hackers Build Filament
       - Solutech ABS
-  - DLP
+        - [Acetone](https://www.amazon.com/gp/product/B07FTP6BDW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FTP6BDW&linkCode=as2&tag=hepaestus-20&linkId=d3db9644e5173279bdc866ec100bb5cc) if you print ABS
+  - DLP Printers
     - Resin
       - [Anycubic Basic Grey 405nm](https://www.anycubic.com/collections/uv-resin)
-    - [FEP Film for DLP Printing](https://www.anycubic.com/collections/for-photon-series/products/fep-film-for-dlp-photon-printer)
+    - [FEP Film for DLP Printing](https://www.amazon.com/gp/product/B08JTL4CCQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08JTL4CCQ&linkCode=as2&tag=hepaestus-20&linkId=8a056fed7d66201a1a780e9575862faf) [Official Site](https://www.anycubic.com/collections/for-photon-series/products/fep-film-for-dlp-photon-printer)
     - [Gloves](https://www.amazon.com/gp/product/B09JGP2L51/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09JGP2L51&linkCode=as2&tag=hepaestus-20&linkId=dccad6d3e796f94cc2d2be8165154832)
     - [Filters](https://www.amazon.com/gp/product/B07V4WRJJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V4WRJJG&linkCode=as2&tag=hepaestus-20&linkId=1d9ea591f651937d8b3d8c77b0fed5e5) 
     - Solvents for cleaning
