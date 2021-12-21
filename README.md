@@ -75,14 +75,34 @@ $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?i
 
 $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
 
+#### Creality Upgraded Hot End
+<img alt="Creality Hot End Upgrade" src="images/creality-hot-end-upgrade.jpg" style="width: 40%; margin: 5px;"/>
+
+[Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B09D871W68&linkId=44f0310a6821435588c54bfa1f439df4)
+
+
 #### RBG Lights
 <img alt="EZNeo RGB Lighting Strip" src="/images/ezneo-rgb-light.jpg" style="width: 40%"/>
 
-$24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/)
-- This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
+- $24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/)
+  - This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
+
+#### Filament Sensor
+<img src="https://m.media-amazon.com/images/I/51Xpb1-hVVL._SL1000_.jpg" style="width: 40%; margin: 5px;" />
+
+- $10 [Creality Filiment Sensor](https://www.amazon.com/gp/product/B087325BPG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B087325BPG&linkId=4148d73475d6ac6adc908aa50715b273)
+
+### Upgrade Results On The Hot End
+<img src="images/Ender3Pro_OMG-EXTRUDE_BLTouch_hotend.jpg" style="width: 40%;" />
+Here is my current hot end configuration. BLTouch, Hot end upgrade
+
+### Firmware Upgrades
+I used the [Unified Firmware Help](https://www.th3dstudio.com/hc/category/downloads/unified-2-firmware/). Download it here: [TH3D Studio Firmware Package](https://www.th3dstudio.com/hc/downloads/unified-1-firmware/th3d-unified-1-firmware-package/). You will need [VSCode](https://code.visualstudio.com/) with [Platform IO](https://platformio.org/install/ide?install=vscode). This is probably the most difficult upgrade as it involves compiling code and setting up code parameters. You need to modify the firmware files and select the options you intend to use with your printer. VSCode and PlatformIO make this easier but not foolproof. I did over 30 compiles and uploads before I got it all working properly.
 
 ### Planned Upgrades
-- 3d Printed Fan Shroud that allows for cooling on all sides of the print head. Currently it is one sided :(
+- 3d Printed Fan Shroud
+  - [Hero ME Gen 5 Master Suite Fan Duct](https://www.thingiverse.com/thing:4460970)
+    - [Direct Download](https://www.thingiverse.com/download:11204350)
 
 ## Resin Printers
 <img src="images/anycubic-photon-s.jpg" style="width: 40%; float: left; margin: 5px"> <img src="images/anycubic-wash-and-cure-2.jpg" style="width: 40%; float: left; margin: 5px">
@@ -195,14 +215,21 @@ Your workflow will be as such:
 <img alt="Coex PLA" src="images/coex-pla.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/> <img alt="Anycubic Resin" src="images/anycubic-resin-grey.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/>
 
 - 3d Printing Consumables  
-  - Filaments
-    - COEX PLA and PLA Prime 
-    - Matter Hackers Build Filament
-    - Solutech ABS
-  - Resin
+  - FDM
+    - Filaments
+      - COEX PLA and PLA Prime 
+      - Matter Hackers Build Filament
+      - Solutech ABS
+  - DLP
+    - Resin
+      - [Anycubic Basic Grey 405nm](https://www.anycubic.com/collections/uv-resin)
     - [FEP Film for DLP Printing](https://www.anycubic.com/collections/for-photon-series/products/fep-film-for-dlp-photon-printer)
-    - [Anycubic Basic Grey 405nm](https://www.anycubic.com/collections/uv-resin)
-
+    - [Gloves](https://www.amazon.com/gp/product/B09JGP2L51/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09JGP2L51&linkCode=as2&tag=hepaestus-20&linkId=dccad6d3e796f94cc2d2be8165154832)
+    - [Filters](https://www.amazon.com/gp/product/B07V4WRJJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V4WRJJG&linkCode=as2&tag=hepaestus-20&linkId=1d9ea591f651937d8b3d8c77b0fed5e5) 
+    - Solvents for cleaning
+      - [Acetone](https://www.amazon.com/gp/product/B07FTP6BDW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FTP6BDW&linkCode=as2&tag=hepaestus-20&linkId=d3db9644e5173279bdc866ec100bb5cc)
+      - [Isopropyl Alcohol](https://www.amazon.com/gp/product/B07J49CD76/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07J49CD76&linkCode=as2&tag=hepaestus-20&linkId=d2661c97d1233215225a4b9bf4fd4eb8)
+      
 ## Future Topics of interest
 What would you like to see more info about?
 
