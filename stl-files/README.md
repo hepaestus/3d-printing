@@ -1,2 +1,2 @@
 # STL Files
-These are some STL files I have made for various projects
+These are some STL files I have made or saved from various projects.

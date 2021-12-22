@@ -2,7 +2,7 @@
 
 **Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since they came on the market. In fact printers are so annoying they made a movie about it.
 
-<img alt="Office Space - Advanced Printer Destrucion" src="https://acegif.com/wp-content/uploads/office-space-gifs-113.gif"> 
+<img alt="Office Space - Advanced Printer Destrucion" src="https://acegif.com/wp-content/uploads/office-space-gifs-113.gif">
 
 3d printing *can* be just as frustrating and annoying as any printer you have ever used. Imagine that 40 page assignment you had to have for your professor/boss that would not print properly. 3D printing is just like that, except, you cannot simply print page 38 over again and be ok. Since they build directly upon the layer below, if a layer(page) is not almost perfect the next layer will also not be perfect and it will build on that small error compounding over time into a failed print.
 
@@ -17,7 +17,7 @@ The Ender 3 pro is no longer produced and has been replaced by the Ender 3 v2. C
 
 Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman. I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
 
-So far, I have an the most experience with FDM printers and I am just getting started with resin. 
+So far, I have an the most experience with FDM printers and I am just getting started with resin.
 
 Despite all the frustration and difficulty I have a lot of fun printing all sorts of stuff for fun and profits. I have compiled the information here in an effort to help others who are interested in the 3d printing world.
 
@@ -57,14 +57,14 @@ $50 [Affiliate Link](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?i
 <img alt="Creality Tempered Glass Build Plate" src="images/creality-tempered-glass-bed.jpg" style="width:40%"/>
 
 $20 [Affiliate Link](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
-  
+
 #### Creality 4.2.7 Silent Control Board
 <img alt="4.2.7 Silent Control Board" src="images/creality-4.2.7-board.jpg" style="width: 40%"/>
 
 $50 [Affiliate Link](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1) , [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
-- This was the single best upgrade I have made. The upgraded board makes the printer much quieter and faster, pretty much silently running the stepper motors. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.   
+- This was the single best upgrade I have made. The upgraded board makes the printer much quieter and faster, pretty much silently running the stepper motors. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.
 
-#### Dual Z-Axis 
+#### Dual Z-Axis
 <img alt="Dual Z-Axis" src="images/dual-z-axis.jpg" style="width: 40%" />
 
 $40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
@@ -114,7 +114,7 @@ I also have a resin printer for Dnd minis and small precision parts. I have the 
 If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer
 
 ## Stuff to print
-For starters try printing a [Benchy](https://www.3dbenchy.com/) 
+For starters try printing a [Benchy](https://www.3dbenchy.com/)
 
 ![My Benchys](images/benchys.jpg)
 
@@ -128,9 +128,9 @@ Hero Forge has a great tool for designing *custom* gaming minis that you can dow
 Eldritch Foundry also lets you create custom STL files for download.
 - https://eldritch-foundry.com/
 
-My Mini Factory has tons of free minis to print. 
+My Mini Factory has tons of free minis to print.
 - https://www.myminifactory.com/
-  
+
 ### Sites with paid and free models to print
 Here are a few places to get awesome things to print
 - https://thangs.com/
@@ -151,13 +151,13 @@ Here are multiple options to try. These two are well supported with tons of vide
       - https://www.freecadweb.org/
 
 
-Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers generally take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange them on the print plate and slice. 
+Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers generally take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange them on the print plate and slice.
 - Slicers (I have tried)
   - Super Slicer (based on Slic3r)
-    - This is an awesome slicer that is easy to use and 
+    - This is an awesome slicer that is easy to use and
     - https://github.com/supermerill/SuperSlicer/releases
-      - Goto Assets and choose your OS.    
-  - Cura 
+      - Goto Assets and choose your OS.
+  - Cura
     - https://ultimaker.com/software/ultimaker-cura
   - Prusa Slicer (based on Slic3r)
     - https://www.prusa3d.com/page/prusaslicer_424/
@@ -165,7 +165,7 @@ Once you have a model to print, you will need "Slicer" software to convert your 
 
 Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. Watch or check on your print remotely via webcam.
 
-- Octoprint: https://octoprint.org/ 
+- Octoprint: https://octoprint.org/
   - [Latest Version](https://octoprint.org/download/)
     - SDCard Creation (for setting up octoprint)
       - [RaspberryPi Image Burner](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/)
@@ -175,14 +175,14 @@ Finally when you are printing you will want the best interface possible. For my 
 1. Buy an [FDM 3d printer](https://www.amazon.com/gp/product/B07BR3F9N6?ie=UTF8&tag=hepaestus-20&camp=1789&linkCode=xm2&creativeASIN=B07BR3F9N6) or buy a [Resin 3d printer](https://www.amazon.com/gp/product/B093SC6TDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B093SC6TDS&linkCode=as2&tag=hepaestus-20&linkId=810d8c7f677357e3159bfeb3a8e36727)
 2. Assemble the printer according to the instructions.
 3. If your printer supports using one, [buy a Raspberry Pi, SD Card, Power supply](https://www.amazon.com/gp/product/B07V5JTMV9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V5JTMV9&linkCode=as2&tag=hepaestus-20&linkId=c66b26ab4414e7a0eabea9f756b3ac70) (The Photon S does not support Octoprint)
-4. [Download and Setup Octoprint](https://octoprint.org/download/). 
+4. [Download and Setup Octoprint](https://octoprint.org/download/).
 5. Install Software
    - Drawing Software
      - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
      - [FreeCad](https://www.freecadweb.org/)
      - Others ???
    - Slicing Software
-     - FDM Slicers  
+     - FDM Slicers
        - [Cura](https://ultimaker.com/software/ultimaker-cura)
        - [Super Slicer](https://github.com/supermerill/SuperSlicer/releases)
        - [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
@@ -214,10 +214,10 @@ Your workflow will be as such:
 ## 3D Printing Consumables
 <img alt="Coex PLA" src="images/coex-pla.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/> <img alt="Anycubic Resin" src="images/anycubic-resin-grey.jpg" style="width: 40%; float: left; margin: 5px; vertical-align: top;"/>
 
-- 3d Printing Consumables  
+- 3d Printing Consumables
   - FDM Printers
     - Filaments
-      - COEX PLA and PLA Prime 
+      - COEX PLA and PLA Prime
       - Matter Hackers Build Filament
       - Solutech ABS
         - [Acetone](https://www.amazon.com/gp/product/B07FTP6BDW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FTP6BDW&linkCode=as2&tag=hepaestus-20&linkId=d3db9644e5173279bdc866ec100bb5cc) if you print ABS
@@ -226,14 +226,13 @@ Your workflow will be as such:
       - [Anycubic Basic Grey 405nm](https://www.anycubic.com/collections/uv-resin)
     - [FEP Film for DLP Printing](https://www.amazon.com/gp/product/B08JTL4CCQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08JTL4CCQ&linkCode=as2&tag=hepaestus-20&linkId=8a056fed7d66201a1a780e9575862faf) [Official Site](https://www.anycubic.com/collections/for-photon-series/products/fep-film-for-dlp-photon-printer)
     - [Gloves](https://www.amazon.com/gp/product/B09JGP2L51/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09JGP2L51&linkCode=as2&tag=hepaestus-20&linkId=dccad6d3e796f94cc2d2be8165154832)
-    - [Filters](https://www.amazon.com/gp/product/B07V4WRJJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V4WRJJG&linkCode=as2&tag=hepaestus-20&linkId=1d9ea591f651937d8b3d8c77b0fed5e5) 
+    - [Filters](https://www.amazon.com/gp/product/B07V4WRJJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V4WRJJG&linkCode=as2&tag=hepaestus-20&linkId=1d9ea591f651937d8b3d8c77b0fed5e5)
     - Solvents for cleaning
       - [Acetone](https://www.amazon.com/gp/product/B07FTP6BDW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FTP6BDW&linkCode=as2&tag=hepaestus-20&linkId=d3db9644e5173279bdc866ec100bb5cc)
       - [Isopropyl Alcohol](https://www.amazon.com/gp/product/B07J49CD76/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07J49CD76&linkCode=as2&tag=hepaestus-20&linkId=d2661c97d1233215225a4b9bf4fd4eb8)
-      
+
 ## Future Topics of interest
 What would you like to see more info about?
 
 ## Do You Have A Question? A Comment? Did you find an error?
 If you want to ask a question, comment, or report an error please click [here and do your thing](https://github.com/hepaestus/3d-printing/issues/new). Or send an email to [hepaestus@gmail.com](mailto://hepaestus@gmail.com).
-

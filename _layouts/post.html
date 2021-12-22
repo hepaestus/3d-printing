@@ -1,14 +1,23 @@
 ---
 layout: default
+tags: blog
+categories: test
 ---
-
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+<h2>{{ page.title }}</h2>
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
 {{content}}
 
+{% if page.categories %}
+<div>
+  <small>categories: <em>{{ page.categories | join: "</em> - <em>" }}</em></small>
+</div>
+{% endif %}
+
 {% if page.tags %}
+<div>
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+</div>
 {% endif %}
