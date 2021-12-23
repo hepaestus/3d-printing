@@ -1,12 +1,13 @@
 ---
----
 
+---
 @import "jekyll-theme-minimalist";
+@import "{{ site.theme }}";
 
 .img-circle {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    border-radius: 5px; 
+    border-radius: 5px;
     margin-bottom: 10px;
 }
 
