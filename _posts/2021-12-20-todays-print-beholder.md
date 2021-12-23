@@ -2,10 +2,11 @@
 layout: post
 title: "Today's Print: The Beholder"
 date: 2021-12-22 11:00:00 +0500
-tags: 3d-printing, blog, dnd, minis, dnd minis, monsters
+tags: 3d-printing blog dnd minis 'dnd minis' monsters
 author: Pete
 ---
-## The Beholder
+The beholder is a monster to be respected. You will need all your wits to defeat such a powerfull magicl beast.
+<!--more-->
 
 ![Beholder Model](/images/blog_beholder-the-watcher.png)
 

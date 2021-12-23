@@ -13,3 +13,6 @@ author: Pete
 - 📫 How to reach me: hepaestus@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be a chemist.
+
+### My Professional Resume
+[Peter E Olsen III Resume](/resume/index.html)

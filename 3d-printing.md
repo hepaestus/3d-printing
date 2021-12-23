@@ -2,7 +2,7 @@
 layout: default
 title: 3D Printing Manifesto
 author: Pete
-updated: December 22nd 2021
+updated: December 23nd 2021
 ---
 ## Last Updated: {{ page.updated }}
 

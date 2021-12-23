@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /3d-printing/about.html
+- name: My Resume
+  link: /resume/index.html
+- name: Blog
+  link: /3d-printing/blog.html
