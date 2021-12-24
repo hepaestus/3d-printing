@@ -2,15 +2,15 @@
 layout: post
 title: "Today's Print: The Maralith"
 date: 2021-12-22 11:00:00 +0500
-tags: 3d-printing, blog, dnd, minis, dnd minis, monsters
+tags: 3d-printing blog dnd minis 'dnd minis' monsters
 author: Pete
 ---
 The marilith from the Dnd Monster Manual is an amazing monster. SHe has 6 arms and 6 swords making for 6 magical mellee attacks.
+<!--more-->
 
-![Maralith Model](/images/blog_maralith.png)
+![Maralith Model](/3d-printing/images/blog_marilith.png)
 
-![Marilith Print](/images/blog_maralith_print.png)
-
+![Marilith Print](/3d-printing/images/blog_marilith_print.png)
 ### Monster Stats
 Large fiend (demon), chaotic evil<br/>
 **Armor Class** 18 (natural armor)<br/>

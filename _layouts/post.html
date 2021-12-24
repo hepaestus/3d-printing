@@ -1,13 +1,19 @@
 ---
 layout: default
 tags: blog
-categories: test
+categories: blog
 ---
 
-<div>
-  <small>
-    <a href="/" alt="back home">back home</a>
-  </small>
+<div class="post-navigation">
+  {% if page.previous %}
+    <small><a href="{{ page.previous.url | absolute_url }}">previous</a></small> |
+  {% endif %}
+
+  <small><a href="{{ "/" | absolute_url }}" alt="back home">back home</a></small>
+
+  {% if page.next %}
+   | <small><a href="{{ page.next.url | absolute_url }}" alt="next post">next</a></small>
+  {% endif %}
 </div>
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
@@ -32,6 +38,6 @@ categories: test
 <hr/>
 <div>
   <small>
-    <a href="/" alt="back home">back home</a>
+    <a href="{{ "/" | absolute_url }}" alt="back home">back home</a>
   </small>
 </div>

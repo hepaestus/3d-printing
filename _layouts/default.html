@@ -1,3 +1,7 @@
+---
+url-prefix: "/3d-printing/"
+---
+
 {% case site.color-scheme %}
 {% when "", nil, false, 0, empty %}
 {% assign ColorScheme = "auto" %}
@@ -20,7 +24,7 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-  <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
+  <link rel="preload" href="{{ site.logo | absolute_url }}" as="image">
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -33,15 +37,15 @@
     <div class="sidebar">
       <header>
         {% if site.logo %}
-        <a href="/" alt="Home Link">
-          <img class="img-circle" rel="prefetch" src="{{ site.logo }}" alt="Logo">
+        <a href="/3d-printing">
+          <img class="img-circle" rel="prefetch" src="{{ site.logo | absolute_url }}" alt="Logo">
         </a>
         {% endif %}
 
         {% if site.blank_title %}
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% else %}
-        <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
         {% endif %}
 
         {% if site.email %}
@@ -51,6 +55,9 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% include sidebar.html %}
+
+        <p>[About Me](about)</p>
+
 
       </header>
 

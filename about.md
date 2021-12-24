@@ -1,9 +1,10 @@
 ---
 layout: default
-title: About Me Page
+title: "About Me Page"
 author: Pete
 ---
-## About Me
+## About Me {{ site.author }}
+
 - :smile: My Name is {{ page.author }}.
 - 🔭 I’m currently working with JHipster, Java, Angular, Typescript, Javascript, HTML, CSS, MySQL, Arduino, and G-Code.
 - 🌱 I’m currently learning to build custom keyboards and control 3d-printers.
@@ -15,4 +16,4 @@ author: Pete
 - ⚡ Fun fact: I used to be a chemist.
 
 ### My Professional Resume
-[Peter E Olsen III Resume](/resume/index.html)
+[Peter E Olsen III Resume](https://hepaestus.github.io/resume)

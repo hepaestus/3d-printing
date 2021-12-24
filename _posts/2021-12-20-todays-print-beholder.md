@@ -8,9 +8,9 @@ author: Pete
 The beholder is a monster to be respected. You will need all your wits to defeat such a powerfull magicl beast.
 <!--more-->
 
-![Beholder Model](/images/blog_beholder-the-watcher.png)
+![Beholder Model](/3d-printing/images/blog_beholder-the-watcher.png)
 
-![Beholder Print](/images/blog_beholder-the-watcher_print.png)
+![Beholder Print](/3d-printing/images/blog_beholder-the-watcher_print.png)
 
 ### Monster Stats
 Large aberration, lawful evil<br/>

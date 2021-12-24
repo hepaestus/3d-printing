@@ -1,24 +1,25 @@
 ---
 layout: default
-title: Home Page
+title: 3D-Printing Home
 ---
-# {{ site.title }}
-* [About Me](/3d-printing/about.md)
+# {{ site.owner }}'s
+## {{ site.title }}
 
+### {{ site.sub-title }}
 ## {{ page.title }}
-* [3D Printing Manifesto](/3d-printing/3d-printing.md)
+My updated [3D Printing Manifesto](3d-printing-manifesto) where in I discuss my techniques, insights, and failures.
 
-### Latest Blog Posts
+## Blog
 <ul id="blog-post-list">
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.date | date: "%y %a, %b %d" }} {{ post.title }}</a></h2>
-      {{ post.excerpt }}
-
+      <div class="blog-post-excerpt">
+      <h2><a href="{{ post.url | absolute_url }}"><small>{{ post.date | date: "%-d %B %Y" }}</small> {{ post.title }}</a></h2>
       {% if post.excerpt %}
-        <small style="margin: 0 0 20px 0"; padding: 0;><a href="{{post.url}}">Read More</a></small>
+        {{ post.excerpt }}
+        <a class="read-more" href="{{post.url | absolute_url }}"><span style="margin: 0; padding: 0;">Read More</span></a>
       {% endif %}
-
+      </div>
     </li>
   {% endfor %}
 </ul>
