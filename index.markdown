@@ -15,7 +15,7 @@ My updated [3D Printing Manifesto](3d-printing-manifesto) where in I discuss my 
     <li>
       <div class="blog-post-excerpt">
       <h2 class="blog-post-title">
-        <a href="{{ post.url | absolute_url }}">
+        <a href="{{ post.url }}">
           <small>{{ post.date | date: "%-d %B %Y" }}</small>
           {{ post.title }}
         </a>
@@ -23,7 +23,7 @@ My updated [3D Printing Manifesto](3d-printing-manifesto) where in I discuss my 
       {% if post.excerpt %}
         <blockquote class="blog-excerpt">
           {{ post.excerpt }}
-          <div class="read-more"><a href="{{post.url | absolute_url }}"><span>Read More</span></a></div>
+          <div class="read-more"><a href="{{ post.url }}"><span>Read More</span></a></div>
         </blockquote>
       {% endif %}
       </div>
