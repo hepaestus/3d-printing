@@ -15,7 +15,11 @@ I had many fails and bad prints. I had to use medium sized supports as the small
 
 ![Beholder Print](/3d-printing/images/blog_beholder-the-watcher_print.png)
 
-I have taken artistic license and not shown the part of the model that printed weird. :smile:
+I have taken artistic license with this image and not shown the part of the model that printed weird. :smile:
+
+### Printer Settings
+
+This print used the standard Photo S settings as recommended by Anycubic. I used Anycubic Basic Grey resin.
 
 ### Monster Stats
 Large aberration, lawful evil<br/>

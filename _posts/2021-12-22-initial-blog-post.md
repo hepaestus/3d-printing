@@ -8,5 +8,5 @@ excerpt: "Obligatory First Post Post"
 ---
 This is the very first post where I start things off.
 <!--more-->
-If you have not yet, check out the what you probably came here
-for in the first place my [manifesto on 3d printing](/3d-printing/3d-printing).
+If you have not yet, please check out my [manifesto on 3d printing](/3d-printing/3d-printing-manifesto).
+Thanks.

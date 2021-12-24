@@ -2,7 +2,7 @@
 layout: default
 title: "About Me"
 ---
-## About Me: {{ site.owner }}
+## About Me
 - :smile: My Name is {{ site.owner }}.
 - 🔭 I’m currently working with JHipster, Java, Angular, Typescript, Javascript, HTML, CSS, MySQL, Arduino, and G-Code.
 - 🌱 I’m currently learning to build custom keyboards and control 3d-printers.
