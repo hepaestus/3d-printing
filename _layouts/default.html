@@ -37,7 +37,7 @@ url-prefix: "/3d-printing/"
     <div class="sidebar">
       <header>
         {% if site.logo %}
-        <a href="/3d-printing">
+        <a href="{{ "/" | absolute_url }}">
           <img class="img-circle" rel="prefetch" src="{{ site.logo | absolute_url }}" alt="Logo">
         </a>
         {% endif %}
@@ -48,6 +48,8 @@ url-prefix: "/3d-printing/"
         <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
         {% endif %}
 
+        <p><a href="{{ "about" | absolute_url }}">About Me</a></p>
+
         {% if site.email %}
         <p class="addr">&#x2709;&nbsp;<a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         {% endif %}
@@ -55,10 +57,6 @@ url-prefix: "/3d-printing/"
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% include sidebar.html %}
-
-        <p>[About Me](about)</p>
-
-
       </header>
 
       {% include links-mobile.html %}

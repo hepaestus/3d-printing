@@ -5,12 +5,17 @@ date: 2021-12-22 11:00:00 +0500
 tags: 3d-printing blog dnd minis 'dnd minis' monsters
 author: Pete
 ---
-The beholder is a monster to be respected. You will need all your wits to defeat such a powerfull magicl beast.
+The beholder is a monster to be respected. You will need all your wits to defeat such a powerfull magical beast.
 <!--more-->
 
 ![Beholder Model](/3d-printing/images/blog_beholder-the-watcher.png)
 
+This [Watcher Beholder](https://www.myminifactory.com/object/3d-print-the-watcher-141033) was particularly hard to print.
+I had many fails and bad prints. I had to use medium sized supports as the smallest supports failed to print propery and the whole print suffered as a result.
+
 ![Beholder Print](/3d-printing/images/blog_beholder-the-watcher_print.png)
+
+I have taken artistic license and not shown the part of the model that printed weird. :smile:
 
 ### Monster Stats
 Large aberration, lawful evil<br/>
@@ -37,8 +42,8 @@ the cone faces and whether the cone is active. The area works
 against the beholder's own eye rays.
 
 #### ACTIONS
-**Bite** Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
-**Hit**: 14 (4d6) piercing damage .
+**Bite** Melee Weapon Attack: +5 to hit, reach 5 ft., one target.<br/>
+**Hit**: 14 (4d6) piercing damage .<br/>
 **Eye Rays** The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 1. **Charm Ray** The targeted creature must succeed on a DC 16 Wisdom saving throw or be charmed by the beholder for 1 hour, or until the beholder harms the creature.
 2. **Paralyzing Ray** The targeted creature mu st succeed on a DC 16 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
@@ -50,9 +55,9 @@ throw at the end of each of its turns, ending the effect on itself on a success.
 7. **Sleep Ray** The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain unconscious
 for 1 minute . The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
 8. **Petrification Ray** The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is  restrained. It mu st repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure , the creature is petrified until freed by the greater restoration spell or other magic.
-9. **Disintegration Ray**. If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust. If the target is a Large or smaller non magical object or
+9. **Disintegration Ray** If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (10d8) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust. If the target is a Large or smaller non magical object or
 creation of magical force, it is disintegrated without a saving throw. If th e target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.
-10. **Death Ray**.** The targeted creature must succeed on a DC
+10. **Death Ray** The targeted creature must succeed on a DC
 16 Dexterity saving throw or take 55 (10d10) necrotic damage.
 The target dies if the ray reduces it to 0 hit points.
 

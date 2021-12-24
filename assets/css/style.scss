@@ -66,17 +66,24 @@ ul#blog-post-list {
   li {
     list-style-type: none;
   }
+  .read-more {
+    margin-bottom: 10px;
+  }
+}
+
+.blog-post-title {
+  margin: 5px 0;
+  padding: 5px 0;
 }
 
 .blog-post-excerpt {
   margin-top: 2px;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 
   p {
     margin-top: 3px;
     margin-bottom: 3px;
   }
-
 }
 
 h2 > .small {

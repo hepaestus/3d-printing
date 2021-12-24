@@ -7,17 +7,24 @@ title: 3D-Printing Home
 
 ### {{ site.sub-title }}
 ## {{ page.title }}
-My updated [3D Printing Manifesto](3d-printing-manifesto) where in I discuss my techniques, insights, and failures.
+My updated [3D Printing Manifesto](3d-printing-manifesto) where in I discuss my techniques, insights, and failures. Also see the [blog](blog) wherein I document more in depth about each of my projects.
 
-## Blog
+## Blog Posts
 <ul id="blog-post-list">
   {% for post in site.posts %}
     <li>
       <div class="blog-post-excerpt">
-      <h2><a href="{{ post.url | absolute_url }}"><small>{{ post.date | date: "%-d %B %Y" }}</small> {{ post.title }}</a></h2>
+      <h2 class="blog-post-title">
+        <a href="{{ post.url | absolute_url }}">
+          <small>{{ post.date | date: "%-d %B %Y" }}</small>
+          {{ post.title }}
+        </a>
+      </h2>
       {% if post.excerpt %}
-        {{ post.excerpt }}
-        <a class="read-more" href="{{post.url | absolute_url }}"><span style="margin: 0; padding: 0;">Read More</span></a>
+        <blockquote class="blog-excerpt">
+          {{ post.excerpt }}
+          <div class="read-more"><a href="{{post.url | absolute_url }}"><span>Read More</span></a></div>
+        </blockquote>
       {% endif %}
       </div>
     </li>

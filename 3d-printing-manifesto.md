@@ -40,13 +40,13 @@ Despite all the frustration and difficulty I have a lot of fun printing all sort
 
 ## My FDM Printer Setup
 
-### Ender 3 Pro 
+### Stock Ender 3 Pro 
 <img alt="Ender 3 Pro" src="images/ender3pro.png" style="width: 500px;margin: 5 auto">
 
 $209 The [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) cames as a kit to assemble. This made me more familiar with it and since I built it I can always fix it. :)
 
-### Current Ender 3 Pro Upgrades:
-These are not required. I used a stock ender 3 for more than a year before any upgrades at all. Now I think it performs better and it's super fun to tinker with and improve your printer. Here are the upgrades I have done, in roughly the order I did them.
+### Upgraded Ender 3 Pro
+In general upgrades are not required. I used the stock ender 3 pro for more than a year before any upgrades at all. In that time I noticed issues the printer was having that I wanted to correct if possible. After the upgrades, my printer performs better and is more reliable. That said it's super fun to tinker with and improve your printer. Here are the upgrades I have done, in roughly the order I did them.
 
 #### Raspberry Pi With the Octoprint Print Controller
 If our printer supports it, you should set up an Octoprint print server. It provides a web interface to send jobs to your printer and basically control all of it's functions remotely.
@@ -90,7 +90,6 @@ $85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?i
 
 [Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B09D871W68&linkId=44f0310a6821435588c54bfa1f439df4)
 
-
 #### RBG Lights
 <img alt="EZNeo RGB Lighting Strip" src="/images/ezneo-rgb-light.jpg" style="width: 40%"/>
 
@@ -114,7 +113,7 @@ I used the [Unified Firmware Help](https://www.th3dstudio.com/hc/category/downlo
   - [Hero ME Gen 5 Master Suite Fan Duct](https://www.thingiverse.com/thing:4460970)
     - [Direct Download](https://www.thingiverse.com/download:11204350)
 
-## Resin Printers
+## My SLA(resin) Printer Setup
 <picture>
 <img src="images/anycubic-photon-s.jpg" style="width: 40%; float: left; margin: 5px">
 </picture>
@@ -122,7 +121,7 @@ I used the [Unified Firmware Help](https://www.th3dstudio.com/hc/category/downlo
 <img src="images/anycubic-wash-and-cure-2.jpg" style="width: 40%; margin: 5px;">
 </picture>
 
-I also have a resin printer for Dnd minis and small precision parts. I have the [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer) with the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0). The wash and cure system is really nice and makes clean up much easier.
+I have an [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)resin printer for Dnd minis and small precision parts. I also opted for the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0). This was a bonus as it makes clean up much easier and faster.
 
 ## Other Printers Of Note
 If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K [Creality CR30](https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer) Infinite Z Belt Printer.
