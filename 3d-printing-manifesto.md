@@ -5,7 +5,7 @@ sub-title: "Always-Always Be-Be Printing-Printing"
 author: Pete
 updated: December 24nd 2021
 ---
-## So... Your interested in 3d Printing?
+## So... You are interested in 3d Printing?
 **Last Updated: {{ page.updated }}**
 
 **Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since they came on the market. In fact printers are so annoying they made a movie about it.
@@ -17,13 +17,13 @@ updated: December 24nd 2021
 That said you can do a lot to make sure your print succeeds. From choosing the right printer, and the right filament. To leveling your print bed properly, and choosing the necessary slicer settings. You too can dial in your printer just right.
 
 ## What kind of printer should I get?
-Before you choose a 3d printer you should think ahead about what you want to print. Minis, jewelry, and small parts are great for a DLP resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM filament printer.
+Before you choose a 3d printer you should think ahead about what you want to print. Minis, jewelry, and small parts are great for a DLP resin printer. Larger parts like: toys, structural elements, anything large , etc. are probs best printed on an FDM filament printer.
 
 I am pretty happy with my Ender3Pro FDM printer. Recently I have upgraded it from the stock model to make it even better. FDM Printers like the Ender3pro are harder to upkeep as they have **many** moving parts and are quite technical to operate. I have been looking into resin printers for high detail small parts like Dnd Minis and jewelry. Resin printers are fast, easy to use and provide great detail to your prints. They are much simpler than FDM printers as they have far fewer moving parts.
 
 The Ender 3 pro is no longer produced and has been replaced by the Ender 3 v2. Check out this great video on its pro and cons: https://youtu.be/sbRHZUnmfYw
 
-Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman. I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
+Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman. I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
 
 So far, I have an the most experience with FDM printers and I am just getting started with resin.
 
@@ -41,7 +41,7 @@ Despite all the frustration and difficulty I have a lot of fun printing all sort
 
 ## My FDM Printer Setup
 
-### Stock Ender 3 Pro 
+### Stock Ender 3 Pro
 <img alt="Ender 3 Pro" src="images/ender3pro.png" style="width: 500px;margin: 5 auto">
 
 $209 The [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) cames as a kit to assemble. This made me more familiar with it and since I built it I can always fix it. :)
@@ -54,13 +54,13 @@ If our printer supports it, you should set up an Octoprint print server. It prov
 
 <img alt="Rasberry Pi 4 8GB" src="images/raspberry-pi-4-b-8g.jpg" style="width:40%"/>
 
-$75-$160 [Raspberry Pi Kit w/ all the Trimmings](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
+$75-$160 [Raspberry Pi Kit w/ all the Trimmings](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
 - Software: https://octoprint.org/
 
 #### Bed Leveling Sensor
 <img alt="BL Touch Sensor Kit" src="images/bl-touch.jpg" style="width:40%"/>
 
-$50 [BLTouch Sensor Kit](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Creality Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
+$50 [BLTouch Sensor Kit](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Creality Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
 - This sensor precisly neasure the distance to your print bed and uses some fancy maths to calculate the flatness of your print bed.
   - Works with Octoprint to make cool graphs of your beds flatness.
 
@@ -126,7 +126,7 @@ I used the [Unified Firmware Help](https://www.th3dstudio.com/hc/category/downlo
 I have an [Anycubic Photo S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-3d-printer)resin printer for Dnd minis and small precision parts. I also opted for the [Wash and Cure Station 2.0](https://www.amazon.com/gp/product/B08JCSSTD5/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B08JCSSTD5&linkId=57b74f3e05d795dc64de733455e5f6f0). This was a bonus as it makes clean up much easier and faster.
 
 ## Other Printers Of Note
-If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K [Creality CR30](https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer) Infinite Z Belt Printer.
+If you have a larger budget and larger ambitions, and or want to print super long/tall items, or a huge series or multiples this is what you would want :)  $+1K [Creality CR30](https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer) Infinite Z Belt Printer.
 
 ## Stuff to print
 For starters try printing a [Benchy](https://www.3dbenchy.com/)
@@ -138,22 +138,30 @@ For starters try printing a [Benchy](https://www.3dbenchy.com/)
 
 ### Tools for Creating Minis
 Hero Forge has a great tool for designing *custom* gaming minis that you can download at STL files for your slicer. Custom STL files are about $3.50 USD.
-- https://heroforge.com/
+- [https://heroforge.com/](https://heroforge.com/)
 
-Eldritch Foundry also lets you create custom STL files for download.
-- https://eldritch-foundry.com/
+Eldritch Foundry also lets you create custom STL character files where you pay to download a printable file.
+- [https://eldritch-foundry.com/](https://eldritch-foundry.com/)
 
-My Mini Factory has tons of free minis to print.
-- https://www.myminifactory.com/
+My Mini Factory has free and paid minis to print.
+- [https://www.myminifactory.com/](https://www.myminifactory.com/)
 
 ### Sites with paid and free models to print
 Here are a few places to get awesome things to print
-- https://thangs.com/
-- https://www.thingiverse.com/
-- https://3dcults.com
+- [https://thangs.com/](https://thangs.com/)
+- [https://www.thingiverse.com/](https://www.thingiverse.com/)
+- [https://3dcults.com](https://3dcults.com)
 
 
-## Software You Will Need
+## What do I need?
+### Emotional needs
+1. **Patience** You will need patience as 3d printing is a slow process, more like sending a book to the printer than sneding a single page. Expect to wait so see the fruits of your labor.
+2. **Resiliancy** You are going to have failed prints. You just are. There will be dust or oil on your build plate. Your prints won't stick to the build plate. On the tail end of a print you will lose power. It will happen. You will fail and you will need to be able to clean that build plate, reload more filament/resin, and try again, and probs a third time. Before you get that perfect print.
+3. **Anger Managment Skills** Remember how I said you were going to fail, well it's gonna drize you crazy mad insane at times to you need to be able to manage that. Like have a second less frustrating hobby to do while you wait for your print to turn into a spaghetti nest.
+### Hardware you will need
+In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc or mac, can run the required software. You need access to a USB port to save your files to a thumb drive or an SD card port.
+
+### Software You Will Need
 You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
 
 Here are multiple options to try. These two are well supported with tons of video tutorials on youtube.
@@ -170,12 +178,12 @@ Once you have a model to print, you will need "Slicer" software to convert your 
 - Slicers (I have tried)
   - Super Slicer (based on Slic3r)
     - This is an awesome slicer that is easy to use and
-    - https://github.com/supermerill/SuperSlicer/releases
+    - [https://github.com/supermerill/SuperSlicer/releases#assets](https://github.com/supermerill/SuperSlicer/releases)
       - Goto Assets and choose your OS.
   - Cura
-    - https://ultimaker.com/software/ultimaker-cura
-  - Prusa Slicer (based on Slic3r)
-    - https://www.prusa3d.com/page/prusaslicer_424/
+    - [https://ultimaker.com/software/ultimaker-cura](https://ultimaker.com/software/ultimaker-cura)
+  - Prusa Slicer (also based on Slic3r)
+    - [https://www.prusa3d.com/page/prusaslicer_424/](https://www.prusa3d.com/page/prusaslicer_424/)
 
 
 Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. Watch or check on your print remotely via webcam.
