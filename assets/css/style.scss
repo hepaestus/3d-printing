@@ -59,6 +59,23 @@
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+div#side-title {
+  margin: auto;
+}
+
+div#side-title,
+div#side-navigation,
+div#side-contact-me {
+  h1, h2, h3 {
+    margin-bottom: 3px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0 0 10px 0;
+    padding: 0;
+  }
+}
+
 ul#blog-post-list {
   margin: 0;
   padding: 0;

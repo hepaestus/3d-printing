@@ -1,9 +1,9 @@
-url: /3d-printing/
+basehref: "/3d-printing/"
 owner: "Pete Olsen III"
 title: "3D Printing Manifesto"
 sub-title: "Always Be Printing"
 description: "In an effort to help others, I am posting my 3d printing experiences, failures, and successes."
-logo: /3d-printing/assets/img/pete_logo.png
+logo: assets/img/pete_logo.png
 email: "hepaestus@gmail.com"
 blank_title: false
 favicon: true

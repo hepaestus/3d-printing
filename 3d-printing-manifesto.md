@@ -5,7 +5,8 @@ sub-title: "Always-Always Be-Be Printing-Printing"
 author: Pete
 updated: December 24nd 2021
 ---
-## Last Updated: {{ page.updated }}
+## So... Your interested in 3d Printing?
+**Last Updated: {{ page.updated }}**
 
 **Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since they came on the market. In fact printers are so annoying they made a movie about it.
 
@@ -61,34 +62,35 @@ $75-$160 [Raspberry Pi Kit w/ all the Trimmings](https://www.amazon.com/gp/prod
 
 $50 [BLTouch Sensor Kit](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Creality Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
 - This sensor precisly neasure the distance to your print bed and uses some fancy maths to calculate the flatness of your print bed.
-  - Works with Onctoprint to make cool graphs of your beds flatness
+  - Works with Octoprint to make cool graphs of your beds flatness.
 
 #### Tempered Glass Build Plate
 <img alt="Creality Tempered Glass Build Plate" src="images/creality-tempered-glass-bed.jpg" style="width:40%"/>
 
-$20 [Affiliate Link](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
+$20 [Tempered Glass Build Plate](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
 
 #### Creality 4.2.7 Silent Control Board
 <img alt="4.2.7 Silent Control Board" src="images/creality-4.2.7-board.jpg" style="width: 40%"/>
 
-$50 [Affiliate Link](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1) , [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
+$50 [SIlent Board 4.2.7 Upgrade](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1) , [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
 - This was the single best upgrade I have made. The upgraded board makes the printer much quieter and faster, pretty much silently running the stepper motors. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.
 
 #### Dual Z-Axis
 <img alt="Dual Z-Axis" src="images/dual-z-axis.jpg" style="width: 40%" />
 
-$40 [Affiliate Link](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
-- The Ender 3 Printers only have a single Z-Axis and can have a tendancy to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
+$40 [Dual Z-Axis](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
+
+The Ender 3 Printers only have a single Z-Axis and can have a tendancy to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
 
 #### OMG EXTRUDE Direct Drive Extruder
 <img alt="OMG EXTRUDE" src="images/omg-extrude.jpg" style="width: 40%"/>
 
-$85 [Affiliate link](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
+$85 [OMG Extruder](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B098TZ2PYK&linkCode=as2&tag=hepaestus-20&linkId=a5331e21dafcba92c619657d935876a1)
 
 #### Creality Upgraded Hot End
 <img alt="Creality Hot End Upgrade" src="images/creality-hot-end-upgrade.jpg" style="width: 40%; margin: 5px;"/>
 
-[Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B09D871W68&linkId=44f0310a6821435588c54bfa1f439df4)
+$30 [Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B09D871W68&linkId=44f0310a6821435588c54bfa1f439df4)
 
 #### RBG Lights
 <img alt="EZNeo RGB Lighting Strip" src="/images/ezneo-rgb-light.jpg" style="width: 40%"/>
