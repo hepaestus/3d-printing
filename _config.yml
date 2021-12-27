@@ -1,4 +1,5 @@
-basehref: "/3d-printing/"
+url: http://hepaestus.github.io
+baseurl: "/3d-printing"
 owner: "Pete Olsen III"
 title: "3D Printing Manifesto"
 sub-title: "Always Be Printing"

@@ -17,12 +17,12 @@ url-prefix: {{ site.url-prefix }}
 
   {% seo %}
   <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme |
-    append: site.github.build_revision | absolute_url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | absolute_url }}">
+    append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-  <link rel="preload" href="{{ site.logo | absolute_url }}" as="image">
+  <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -36,15 +36,15 @@ url-prefix: {{ site.url-prefix }}
       <header>
         {% if site.logo %}
         <div id="side-logo">
-          <a href="{{ '/index' | absolute_url }}">
-            <img class="img-circle" rel="prefetch" src="{{ site.logo | absolute_url }}" alt="Logo">
+          <a href="{{ '/index' | relative_url }}">
+            <img class="img-circle" rel="prefetch" src="{{ site.logo | relative_url }}" alt="Logo">
           </a>
         </div>
         {% endif %}
 
         {% if site.blank_title == false %}
           <div id="side-title">
-            <h2><a href="{{ '/index' | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
+            <h2><a href="{{ '/index' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
           </div>
         {% endif %}
 
@@ -52,10 +52,10 @@ url-prefix: {{ site.url-prefix }}
         <div id="side-navigation">
           <h3>Navigation</h3>
           <ul>
-            <li><a href="{{ '/index' | absolute_url }}">Home</a></li>
-            <li><a href="{{ '/about' | absolute_url }}">About Me</a></li>
-            <li><a href="{{ '/blog' | absolute_url }}">Blog</a></li>
-            <li><a href="{{ '/3d-printing-manifesto' | absolute_url }}">Manifesto</a></li>
+            <li><a href="{{ '/index' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/about' | relative_url }}">About Me</a></li>
+            <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
+            <li><a href="{{ '/3d-printing-manifesto' | relative_url }}">Manifesto</a></li>
           </ul>
         </div>
 
@@ -88,7 +88,7 @@ url-prefix: {{ site.url-prefix }}
       {%- include footer.html -%}
     </footer>
   </div>
-  <script src="{{ "/assets/js/scale.fix.js" | absolute_url }}"></script>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>

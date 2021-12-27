@@ -34,11 +34,11 @@ Despite all the frustration and difficulty I have a lot of fun printing all sort
 
 ## Videos/People to watch
 - This is a pretty cool video on getting started with 3d printing
-  - https://youtu.be/T-Z3GmM20JM?t=26
+  - [https://youtu.be/T-Z3GmM20JM?t=26](https://youtu.be/T-Z3GmM20JM?t=26)
 - Also Zack Freedman has a great channel on all things maker and printer related
-  - https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg
+  - [https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg](https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg)
 - This young lady, AuroraTech, is super informative as well.
-  - https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA
+  - [https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA](https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA)
 
 ## My FDM Printer Setup
 
