@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "About Me"
-sub-title:
 author: Pete
 updated: December 24nd 2021
 ---
