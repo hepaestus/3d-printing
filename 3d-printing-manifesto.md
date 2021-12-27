@@ -5,7 +5,8 @@ sub-title: "Always-Always Be-Be Printing-Printing"
 author: Pete
 updated: December 24nd 2021
 ---
-## So... You are interested in 3d Printing?
+## {{ page.title }}
+### So... You are interested in 3d Printing?
 **Last Updated: {{ page.updated }}**
 
 **Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since they came on the market. In fact printers are so annoying they made a movie about it.
@@ -155,11 +156,13 @@ Here are a few places to get awesome things to print
 
 ## What do I need?
 ### Emotional needs
+
 1. **Patience** You will need patience as 3d printing is a slow process, more like sending a book to the printer than sneding a single page. Expect to wait so see the fruits of your labor.
 2. **Resiliancy** You are going to have failed prints. You just are. There will be dust or oil on your build plate. Your prints won't stick to the build plate. On the tail end of a print you will lose power. It will happen. You will fail and you will need to be able to clean that build plate, reload more filament/resin, and try again, and probs a third time. Before you get that perfect print.
 3. **Anger Managment Skills** Remember how I said you were going to fail, well it's gonna drize you crazy mad insane at times to you need to be able to manage that. Like have a second less frustrating hobby to do while you wait for your print to turn into a spaghetti nest.
+
 ### Hardware you will need
-In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc or mac, can run the required software. You need access to a USB port to save your files to a thumb drive or an SD card port.
+In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc, linux, or mac, can run the required software. You may need access to a USB port to save your files to a thumb drive or an SD card port.
 
 ### Software You Will Need
 You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
