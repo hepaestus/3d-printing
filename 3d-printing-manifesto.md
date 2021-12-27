@@ -93,7 +93,7 @@ $85 [OMG Extruder](https://www.amazon.com/gp/product/B098TZ2PYK/ref=as_li_tl?ie=
 $30 [Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B09D871W68&linkId=44f0310a6821435588c54bfa1f439df4)
 
 #### RBG Lights
-<img alt="EZNeo RGB Lighting Strip" src="/images/ezneo-rgb-light.jpg" style="width: 40%"/>
+<img alt="EZNeo RGB Lighting Strip" src="images/ezneo-rgb-light.jpg" style="width: 40%"/>
 
 - $24 [Official Site](https://www.th3dstudio.com/product/ezneo220-rgb-printer-lighting-strip/)
   - This is more important then you might think if you plan to create timelapse videos of your prints. Also it flashes colors to indicate printing issues.
