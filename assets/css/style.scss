@@ -84,6 +84,7 @@ ul#blog-post-list {
     list-style-type: none;
   }
   .read-more {
+    font-size: small;
     margin-bottom: 10px;
   }
 }
@@ -100,6 +101,10 @@ ul#blog-post-list {
   p {
     margin-top: 3px;
     margin-bottom: 3px;
+  }
+  h2 {
+    margin-top: 25px;
+    margin-bottom: 5px;
   }
 }
 
