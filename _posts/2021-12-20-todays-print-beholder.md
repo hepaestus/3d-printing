@@ -7,6 +7,7 @@ author: Pete
 ---
 The beholder is a monster to be respected. You will need all your wits to defeat such a powerfull magical beast.
 <!--more-->
+**Update**: This monster made for an epic battle wherein our god like heros destroyed the beholder as they fled. The beholder only got to make a few attacks before being over powered by the heroic adventuring party.
 
 ![Beholder Model](/3d-printing/images/blog_beholder-the-watcher.png)
 

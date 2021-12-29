@@ -7,6 +7,7 @@ author: Pete
 ---
 The Marilith from the Dnd Monster Manual is an amazing monster. She has 6 arms and 6 swords making for 6 magical mellee attacks.
 <!--more-->
+**Update**: This poor monster too was quickly destroyed despite her many powerfull magical attacks.
 
 ![Maralith Model](/3d-printing/images/blog_marilith.png)
 

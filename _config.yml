@@ -1,5 +1,5 @@
 url: http://hepaestus.github.io
-baseurl: "/3d-printing"
+baseurl: "/3d-printing/"
 owner: "Pete Olsen III"
 title: "3D Printing Manifesto"
 sub-title: "Always Be Printing"
@@ -13,7 +13,6 @@ google_analytics: G-PHFZS8L51S
 remote_theme: BDHU/minimalist
 color-scheme: dark
 excerpt_separator: <!--more-->
-url-prefix: "/3d-printing/"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
