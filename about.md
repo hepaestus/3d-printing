@@ -1,9 +1,11 @@
 ---
 layout: default
 title: "About Me"
+date: 2021-12-24 11:00:00 +0500
 author: Pete
-updated: December 24nd 2021
+updated: December 24th 2021
 ---
+
 ## {{ page.title }}
 - :smile: My Name is {{ site.owner }}.
 - 🔭 I’m currently working with JHipster, Java, Angular, Typescript, Javascript, HTML, CSS, MySQL, Arduino, and G-Code.
@@ -17,3 +19,5 @@ updated: December 24nd 2021
 
 ### My Professional Resume
 [Peter E Olsen III Resume](https://hepaestus.github.io/resume)
+
+Last Updated: {{ page.updated }}

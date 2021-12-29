@@ -3,13 +3,12 @@ layout: post
 title: "My Resin Protocol"
 subtitle: "As it stands today"
 date: 2021-12-29 11:16:00 +0500
-tags: 3d-printing blog dnd minis 'dnd minis' monsters
+tags: 3d-printing blog dnd minis 'dnd minis' monsters resin SLA
 author: Pete
 ---
 This is my current resin protocol. By that, I mean that this is how I actually make prints in a step by step manner.
 <!--more-->
 Man, there are a lot more steps to this than I imagined when I sat down to write this. First, the set up:
-
 
 ### The Resin Printer
 The printer in question is an [Anycubic Photon S](https://www.anycubic.com/products/anycubic-photon-s). I got it on sale with the wash and cure station 2.0. I have used up one bottle of resin so far in my learning how this little magic box works. Also, how it doesn't work, and how they say it works, and how mine actually works.
@@ -26,7 +25,7 @@ Today I am using Anycubic's [White EC UV Resin](https://www.anycubic.com/collect
 
 ### The Models
 The models I am printing today:
-- [Druid Mini](/3d-printing/stl-files/traci-druid-mini.stl) from Heroforges STL download.
+- [Druid Mini](/3d-printing/stl-files/traci_druid_OP1.stl) from Heroforge's STL download.
 - A [Mimic mini](/3d-printing/stl-files/mimic-hungry.stl) from Thingiverse?
 - Some [Zombies](/3d-printing/stl-files/zombie-1-a.stl) [Zombies](/stl-files/zombie-2-a.stl) [Zombies](/3d-printing/stl-files/zombie-3-a.stl) from Thangs.
 
@@ -83,3 +82,10 @@ For example: if you check your print 10 minutes after starting (step 18) and see
 I had an issue where the resin was not curing at all in the printer. Not on the print bed *or* the print screen. I tested the resin with a UV LED and it turned hard as expected. I was stumped. The printer was on and the light was on but the resin was not curing. A google search said I should turn the printer off and on again. I did just that and it magically fixed the issue. There was no explanation as to why this occurs.
 
 <img alt="Did you turn it off and on again" src="/3d-printing/images/did-you-turn-it-off-and-on-again.gif" style="margin: auto;" />
+
+### Finished Prints
+Full disclosure, this was not a perfect print. One of the minis lifted away from the build plate on one side and failed to print properly. I did get 2 zombies and a larger Mimic though.
+
+<img alt="Successful Prints" src="/3d-printing/images/20211229_180544_successful-prints.jpg" style="width: 30%;"/>
+
+They need some paint to pop. I will get on that soon.
