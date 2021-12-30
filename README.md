@@ -1,5 +1,5 @@
 # My Jekyll 3D Printing Site
-Go To The Site: [Pete Olsen's 3D Printing Manifesto](https://hepaestus.github.io/3d-printing/)
+Go To The Site: [Pete Olsen's 3D Printing Manifesto](https://hepaestus.github.io/3d-printing/index)
 ## Future Topics of interest
 What would you like to see more info about?
 

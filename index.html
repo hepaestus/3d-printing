@@ -1,0 +1,33 @@
+---
+layout: default
+title: 3D-Printing Home
+---
+<h1>{{ site.owner }}'s</h1>
+<h2>{{ site.title }}</h2>
+<h3>{{ site.sub-title }}</h3>
+
+<h2>{{ page.title }}</h2>
+<p>My updated <a href="3d-printing-manifesto">3D Printing Manifesto</a> where I discuss my techniques, insights, and failures. Also
+see the blog wherein I document more in depth about each of my projects.</p>
+
+<h2>Blog Posts</h2>
+<ul id="blog-post-list">
+  {% for post in site.posts %}
+  <li>
+    <div class="blog-post-excerpt">
+      <h2 class="blog-post-title">
+        <a href="{{ post.url | absolute_url }}">
+          <small>{{ post.date | date: "%-d %B %Y" }}</small>
+          {{ post.title }}
+        </a>
+      </h2>
+      {% if post.excerpt %}
+      <blockquote class="blog-excerpt">
+        {{ post.excerpt }}
+        <div class="read-more"><a href="{{ post.url | absolute_url }}"><span>Read More</span></a></div>
+      </blockquote>
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>
