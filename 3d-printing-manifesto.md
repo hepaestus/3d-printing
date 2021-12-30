@@ -159,10 +159,10 @@ Here are a few places to get awesome things to print
 
 1. **Patience** You will need patience as 3d printing is a slow process, more like sending a book to the printer than sneding a single page. Expect to wait so see the fruits of your labor.
 2. **Resiliancy** You are going to have failed prints. You just are. There will be dust or oil on your build plate. Your prints won't stick to the build plate. On the tail end of a print you will lose power. It will happen. You will fail and you will need to be able to clean that build plate, reload more filament/resin, and try again, and probs a third time. Before you get that perfect print.
-3. **Anger Managment Skills** Remember how I said you were going to fail, well it's gonna drize you crazy mad insane at times to you need to be able to manage that. Like have a second less frustrating hobby to do while you wait for your print to turn into a spaghetti nest.
+3. **Anger Managment Skills** Remember how I said you were going to fail, well it's gonna drize you crazy mad insane at times, so you need to be able to manage that. Like have a second less frustrating hobby to do while you wait for your print to turn into a spaghetti nest.
 
 ### Hardware you will need
-In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc, linux, or mac, can run the required software. You may need access to a USB port to save your files to a thumb drive or an SD card port.
+In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc, linux, or mac, can run the required software. You may need access to a USB port to save your files to a thumb drive or an SD card port. Chromebooks or tablets are not a substitute.
 
 ### Software You Will Need
 You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
