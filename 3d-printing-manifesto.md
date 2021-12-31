@@ -11,7 +11,7 @@ updated: December 24nd 2021
 
 **Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since they came on the market. In fact printers are so annoying they made a movie about it.
 
-<img alt="Office Space - Advanced Printer Destrucion" src="https://acegif.com/wp-content/uploads/office-space-gifs-113.gif">
+<img alt="Office Space - Advanced Printer Destruction" src="https://acegif.com/wp-content/uploads/office-space-gifs-113.gif">
 
 3d printing *can* be just as frustrating and annoying as any printer you have ever used. Imagine that 40 page assignment you had to have for your professor/boss that would not print properly. 3D printing is just like that, except, you cannot simply print page 38 over again and be ok. Since they build directly upon the layer below, if a layer(page) is not almost perfect the next layer will also not be perfect and it will build on that small error compounding over time into a failed print.
 
@@ -30,7 +30,7 @@ So far, I have an the most experience with FDM printers and I am just getting st
 
 Despite all the frustration and difficulty I have a lot of fun printing all sorts of stuff for fun and profits. I have compiled the information here in an effort to help others who are interested in the 3d printing world.
 
-*Note: This page conaints affiliate links.*
+*Note: This page contains affiliate links.*
 
 ## Videos/People to watch
 - This is a pretty cool video on getting started with 3d printing
@@ -45,7 +45,7 @@ Despite all the frustration and difficulty I have a lot of fun printing all sort
 ### Stock Ender 3 Pro
 <img alt="Ender 3 Pro" src="images/ender3pro.png" style="width: 500px;margin: 5 auto">
 
-$209 The [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) cames as a kit to assemble. This made me more familiar with it and since I built it I can always fix it. :)
+$209 The [Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer) came as a kit to assemble. This made me more familiar with it and since I built it I feel like I can always fix it. :)
 
 ### Upgraded Ender 3 Pro
 In general upgrades are not required. I used the stock ender 3 pro for more than a year before any upgrades at all. In that time I noticed issues the printer was having that I wanted to correct if possible. After the upgrades, my printer performs better and is more reliable. That said it's super fun to tinker with and improve your printer. Here are the upgrades I have done, in roughly the order I did them.
@@ -81,7 +81,7 @@ $50 [SIlent Board 4.2.7 Upgrade](https://www.amazon.com/gp/product/B08G4SCZDR/re
 
 $40 [Dual Z-Axis](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
 
-The Ender 3 Printers only have a single Z-Axis and can have a tendancy to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
+The Ender 3 Printers only have a single Z-Axis and can have a tendency to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
 
 #### OMG EXTRUDE Direct Drive Extruder
 <img alt="OMG EXTRUDE" src="images/omg-extrude.jpg" style="width: 40%"/>
@@ -102,7 +102,7 @@ $30 [Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf
 #### Filament Sensor
 <img src="https://m.media-amazon.com/images/I/51Xpb1-hVVL._SL1000_.jpg" style="width: 40%; margin: 5px;" />
 
-- $10 [Creality Filiment Sensor](https://www.amazon.com/gp/product/B087325BPG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B087325BPG&linkId=4148d73475d6ac6adc908aa50715b273)
+- $10 [Creality Filament Sensor](https://www.amazon.com/gp/product/B087325BPG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=hepaestus-20&creative=9325&linkCode=as2&creativeASIN=B087325BPG&linkId=4148d73475d6ac6adc908aa50715b273)
 
 ### Upgrade Results On The Hot End
 <img src="images/Ender3Pro_OMG-EXTRUDE_BLTouch_hotend.jpg" style="width: 40%;" />
@@ -157,9 +157,9 @@ Here are a few places to get awesome things to print
 ## What do I need?
 ### Emotional needs
 
-1. **Patience** You will need patience as 3d printing is a slow process, more like sending a book to the printer than sneding a single page. Expect to wait so see the fruits of your labor.
-2. **Resiliancy** You are going to have failed prints. You just are. There will be dust or oil on your build plate. Your prints won't stick to the build plate. On the tail end of a print you will lose power. It will happen. You will fail and you will need to be able to clean that build plate, reload more filament/resin, and try again, and probs a third time. Before you get that perfect print.
-3. **Anger Managment Skills** Remember how I said you were going to fail, well it's gonna drize you crazy mad insane at times, so you need to be able to manage that. Like have a second less frustrating hobby to do while you wait for your print to turn into a spaghetti nest.
+1. **Patience** You will need patience as 3d printing is a slow process, more like sending a book to the printer than sending a single page. Expect to wait so see the fruits of your labor.
+2. **Resiliency** You are going to have failed prints. You just are. There will be dust or oil on your build plate. Your prints won't stick to the build plate. On the tail end of a print you will lose power. It will happen. You will fail and you will need to be able to clean that build plate, reload more filament/resin, and try again, and probs a third time. Before you get that perfect print.
+3. **Anger Management Skills** Remember how I said you were going to fail, well it's gonna drive you crazy mad insane at times, so you need to be able to manage that. Like have a second less frustrating hobby to do while you wait for your print to turn into a spaghetti nest.
 
 ### Hardware you will need
 In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc, linux, or mac, can run the required software. You may need access to a USB port to save your files to a thumb drive or an SD card port. Chromebooks or tablets are not a substitute.
@@ -172,7 +172,7 @@ Here are multiple options to try. These two are well supported with tons of vide
   - Fusion 360 (might be free for personal use) I have the most experience with this.
     - Parametric Drafting software for creating and editing stl files to print.
       - https://www.autodesk.com/products/fusion-360/personal
-  - FreeCad (free software) I have never sucessfully used this to create a model. I have not given it the attention I have given Fusion 360.
+  - FreeCad (free software) I have never successfully used this to create a model. I have not given it the attention I have given Fusion 360.
     - Open Source (Free) Parametric Drafting software.
       - https://www.freecadweb.org/
 
@@ -189,7 +189,7 @@ Once you have a model to print, you will need "Slicer" software to convert your 
     - [https://www.prusa3d.com/page/prusaslicer_424/](https://www.prusa3d.com/page/prusaslicer_424/)
 
 
-Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additioinal plugins to create time lapse videos of your prints or send you an SMS when printing is done. Watch or check on your print remotely via webcam.
+Finally when you are printing you will want the best interface possible. For my Ender 3 Pro I use Octoprint. Octoprint connects to your printer and controls it remotely. You can use the web interface to upload files to print and track print progress and status. You can use additional plugins to create time lapse videos of your prints or send you an SMS when printing is done. Watch or check on your print remotely via webcam.
 
 - Octoprint: https://octoprint.org/
   - [Latest Version](https://octoprint.org/download/)
@@ -227,11 +227,12 @@ Your workflow will be as such:
 4. Generate your GCode with the Slicer software.
 5. Upload GCode to your Printer via sneaker-net or Octoprint depending on printer.
 6. Print your file!
-7. Remove from build plate and remove supports.
-8. Clean and Cure Resin
-9. Enjoy your print!
+7. Clean your print
+8. Cure your print
+9. Remove supports and assemble
+10. Enjoy your sweet print!
 
-## Some of my successfull prints
+## Some of my successful prints
 - [Dactyl Manuform Keyboards](https://www.thingiverse.com/thing:3037954)
 - [The Segmented Slug/Worm](https://www.thingiverse.com/thing:4727448)
 - [Temps-O-Matic Enclosures](https://temps-o-matic.com)
@@ -260,7 +261,7 @@ Your workflow will be as such:
   - Resin (I have tried this)
     - [Anycubic Basic Grey 405nm](https://www.anycubic.com/collections/uv-resin)
   - [FEP Film for DLP Printing](https://www.amazon.com/gp/product/B08JTL4CCQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08JTL4CCQ&linkCode=as2&tag=hepaestus-20&linkId=8a056fed7d66201a1a780e9575862faf) [Official Site](https://www.anycubic.com/collections/for-photon-series/products/fep-film-for-dlp-photon-printer)
-    - The film on your print tray needs to be periodically replaced.
+    - The film on your print tray needs to be replaced if it gets damaged.
   - [Gloves](https://www.amazon.com/gp/product/B09JGP2L51/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B09JGP2L51&linkCode=as2&tag=hepaestus-20&linkId=dccad6d3e796f94cc2d2be8165154832)
   - [Filters](https://www.amazon.com/gp/product/B07V4WRJJG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07V4WRJJG&linkCode=as2&tag=hepaestus-20&linkId=1d9ea591f651937d8b3d8c77b0fed5e5)
   - Solvents for cleaning

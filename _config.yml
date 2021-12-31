@@ -1,6 +1,7 @@
 url: http://hepaestus.github.io
 baseurl: "/3d-printing/"
 owner: "Pete Olsen III"
+timezone: America/New_York
 title: "3D Printing Manifesto"
 sub-title: "Always Be Printing"
 description: "In an effort to help others, I am posting my 3d printing experiences, failures, and successes."

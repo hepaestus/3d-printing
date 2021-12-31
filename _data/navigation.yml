@@ -1,8 +1,12 @@
-- name: Home
-  link: /
-- name: About Me
-  link: {{ site.baseurl }}/about
-- name: My Resume
-  link: /resume/index.html
-- name: Blog
-  link: {{ site.baseurl }}/blog
+navigation:
+  - name: "Home"
+    link: "/"
+
+  - name: "About Me"
+    link: "{{ site.baseurl }}/about"
+
+  - name: "My Resume"
+    link: "/resume/index.html"
+
+  - name: "Blog"
+    link: "{{ site.baseurl }}/blog"
