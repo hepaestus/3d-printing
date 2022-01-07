@@ -6,3 +6,4 @@ vendor
 Gemfile
 Gemfile.lock
 .jekyll-cache
+.vscode/settings.json
