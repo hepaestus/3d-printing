@@ -3,13 +3,13 @@ layout: default
 title: 3D Printing Manifesto
 sub-title: "Always-Always Be-Be Printing-Printing"
 author: Pete
-updated: December 24nd 2021
+updated: January 7th 2022
 ---
 ## {{ page.title }}
 ### So... You are interested in 3d Printing?
 **Last Updated: {{ page.updated }}**
 
-**Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since they came on the market. In fact printers are so annoying they made a movie about it.
+**Printing**... if you have ever setup a printer or worked in an office and had to print stuff, you know how frustrating printing can be. From the drivers, to the network, to the paper tray, it's all annoying and can ruin your print experience at any time. 2D Printing on paper has been a challenge for office workers since printers came on the market. In fact printers are so annoying they made a movie about it.
 
 <img alt="Office Space - Advanced Printer Destruction" src="https://acegif.com/wp-content/uploads/office-space-gifs-113.gif">
 
@@ -22,9 +22,9 @@ Before you choose a 3d printer you should think ahead about what you want to pri
 
 I am pretty happy with my Ender3Pro FDM printer. Recently I have upgraded it from the stock model to make it even better. FDM Printers like the Ender3pro are harder to upkeep as they have **many** moving parts and are quite technical to operate. I have been looking into resin printers for high detail small parts like Dnd Minis and jewelry. Resin printers are fast, easy to use and provide great detail to your prints. They are much simpler than FDM printers as they have far fewer moving parts.
 
-The Ender 3 pro is no longer produced and has been replaced by the Ender 3 v2. Check out this great video on its pro and cons: https://youtu.be/sbRHZUnmfYw
+The Ender 3 pro is no longer produced and has been replaced by the Ender 3 v2. Check out <a href="https://youtu.be/sbRHZUnmfYw">this great video</a> on its pro and cons.
 
-Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman. I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
+Small resin printers in the sub $250 range are basically the same as larger more expensive versions. They are perfect for minis and high detail projects. This is a great video on resin printing: <a href="https://www.youtube.com/watch?v=WNgtWLBs4tc&ab_channel=ZackFreedman">by Zack Freedman</a>. I watched this and I was immediately inspired to plan my next printer purchase for resin minis.
 
 So far, I have an the most experience with FDM printers and I am just getting started with resin.
 
@@ -33,14 +33,15 @@ Despite all the frustration and difficulty I have a lot of fun printing all sort
 *Note: This page contains affiliate links.*
 
 ## Videos/People to watch
-- This is a pretty cool video on getting started with 3d printing
+- This is a pretty cool video on getting started with 3d printing:
   - [https://youtu.be/T-Z3GmM20JM?t=26](https://youtu.be/T-Z3GmM20JM?t=26)
-- Also Zack Freedman has a great channel on all things maker and printer related
-  - [https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg](https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg)
-- This young lady, AuroraTech, is super informative as well.
-  - [https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA](https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA)
+- As I said before, Zack Freedman has a great channel on all things maker and printer related:
+  - [Zach Freedman](https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg)
+- This young lady, AuroraTech, is super informative as well:
+  - [AuroraTech](https://www.youtube.com/channel/UCGER4yfUXubhNVPYoNzBSEA)
 
 ## My FDM Printer Setup
+tldr; I have an ender 3 pro that I have upgraded quite a bit.
 
 ### Stock Ender 3 Pro
 <img alt="Ender 3 Pro" src="images/ender3pro.png" style="width: 500px;margin: 5 auto">
@@ -53,7 +54,7 @@ In general upgrades are not required. I used the stock ender 3 pro for more than
 #### Raspberry Pi With the Octoprint Print Controller
 If our printer supports it, you should set up an Octoprint print server. It provides a web interface to send jobs to your printer and basically control all of it's functions remotely.
 
-<img alt="Rasberry Pi 4 8GB" src="images/raspberry-pi-4-b-8g.jpg" style="width:40%"/>
+<img alt="Raspberry Pi 4 8GB" src="images/raspberry-pi-4-b-8g.jpg" style="width:40%"/>
 
 $75-$160 [Raspberry Pi Kit w/ all the Trimmings](https://www.amazon.com/gp/product/B08B6F1FV5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08B6F1FV5&linkCode=as2&tag=hepaestus-20&linkId=1afde8e5c3316806a2f0a7fc6d2f4477)
 - Software: https://octoprint.org/
@@ -62,7 +63,7 @@ $75-$160 [Raspberry Pi Kit w/ all the Trimmings](https://www.amazon.com/gp/produ
 <img alt="BL Touch Sensor Kit" src="images/bl-touch.jpg" style="width:40%"/>
 
 $50 [BLTouch Sensor Kit](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08MD3ZJTD&linkCode=as2&tag=hepaestus-20&linkId=864136347d011df6561688104b04d88a), [Creality Webpage](https://www.creality3dofficial.com/products/creality-bl-touch)
-- This sensor precisly neasure the distance to your print bed and uses some fancy maths to calculate the flatness of your print bed.
+- This sensor precisely measure the distance to your print bed and uses some fancy maths to calculate the flatness of your print bed.
   - Works with Octoprint to make cool graphs of your beds flatness.
 
 #### Tempered Glass Build Plate
@@ -71,17 +72,21 @@ $50 [BLTouch Sensor Kit](https://www.amazon.com/gp/product/B08MD3ZJTD/ref=as_li_
 $20 [Tempered Glass Build Plate](https://www.amazon.com/gp/product/B0836PMMZ5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0836PMMZ5&linkCode=as2&tag=hepaestus-20&linkId=4ee35e7121f259785375567901e87fbe), [Official Page](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
 
 #### Creality 4.2.7 Silent Control Board
+This was the single best upgrade I have made.
+
 <img alt="4.2.7 Silent Control Board" src="images/creality-4.2.7-board.jpg" style="width: 40%"/>
 
 $50 [SIlent Board 4.2.7 Upgrade](https://www.amazon.com/gp/product/B08G4SCZDR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08G4SCZDR&linkCode=as2&tag=hepaestus-20&linkId=499a6468147e8fd54ca7d8515820e4d1) , [Official Webpage](https://creality3d.shop/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer)
-- This was the single best upgrade I have made. The upgraded board makes the printer much quieter and faster, pretty much silently running the stepper motors. New Ender 3 Pros come with a newer control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.
+- The upgraded board makes the printer much quieter and faster, pretty much silently running the stepper motors. New Ender 3 models come with an upgraded control board. I am not sure of the model. Now I think they come stock with the better 4.2.2 or 4.2.7.
 
 #### Dual Z-Axis
+This upgrade was mostly for piece of mind. The single z-axis that comes on stock on my printer seems to sag on the right hand side. This "sag" may have all been in my head. Regardless, I think it was a good upgrade.
+
 <img alt="Dual Z-Axis" src="images/dual-z-axis.jpg" style="width: 40%" />
 
 $40 [Dual Z-Axis](https://www.amazon.com/gp/product/B08S71B4R9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08S71B4R9&linkCode=as2&tag=hepaestus-20&linkId=320864efd892784efadbcc762672d5ca)
 
-The Ender 3 Printers only have a single Z-Axis and can have a tendency to sag slightly on the right hand side. The dual Z axis ensures but sides are perfectly inline with each other.
+The Stock Ender 3 Printers only have a single Z-Axis. The dual Z axis ensures but sides are always perfectly inline with each other.
 
 #### OMG EXTRUDE Direct Drive Extruder
 <img alt="OMG EXTRUDE" src="images/omg-extrude.jpg" style="width: 40%"/>
@@ -106,12 +111,13 @@ $30 [Upgraded Hot End](https://www.amazon.com/gp/product/B09D871W68/ref=as_li_qf
 
 ### Upgrade Results On The Hot End
 <img src="images/Ender3Pro_OMG-EXTRUDE_BLTouch_hotend.jpg" style="width: 40%;" />
-Here is my current hot end configuration. BLTouch, Hot end upgrade
+
+Here is my current hot end configuration. BLTouch, Hot end upgrade. Still working on the cooling fan upgrade.
 
 ### Firmware Upgrades
 I used the [Unified Firmware Help](https://www.th3dstudio.com/hc/category/downloads/unified-2-firmware/). Download it here: [TH3D Studio Firmware Package](https://www.th3dstudio.com/hc/downloads/unified-1-firmware/th3d-unified-1-firmware-package/). You will need [VSCode](https://code.visualstudio.com/) with [Platform IO](https://platformio.org/install/ide?install=vscode). This is probably the most difficult upgrade as it involves compiling code and setting up code parameters. You need to modify the firmware files and select the options you intend to use with your printer. VSCode and PlatformIO make this easier but not foolproof. I did over 30 compiles and uploads before I got it all working properly.
 
-### Planned Upgrades
+### Further Planned FDM Printer Upgrades
 - 3d Printed Fan Shroud
   - [Hero ME Gen 5 Master Suite Fan Duct](https://www.thingiverse.com/thing:4460970)
     - [Direct Download](https://www.thingiverse.com/download:11204350)
@@ -132,7 +138,7 @@ If you have a larger budget and larger ambitions, and or want to print super lon
 ## Stuff to print
 For starters try printing a [Benchy](https://www.3dbenchy.com/)
 
-![My Benchys](images/benchys.jpg)
+<img src="images/benchys.jpg" alt="Benchy" style="width:40%;"/>
 
 ![Benchy](https://www.3dbenchy.com/wp-content/uploads/2015/04/3DBenchy.com_logo_standard_text_250x1001.png)
 - Benchy is quick to print and can help fine tune your prints. A good benchy is an indicator of a well set up printer.
@@ -165,16 +171,16 @@ Here are a few places to get awesome things to print
 In addition to your 3d printer you will need a computer. Almost any recent laptop or desktop, pc, linux, or mac, can run the required software. You may need access to a USB port to save your files to a thumb drive or an SD card port. Chromebooks or tablets are not a substitute.
 
 ### Software You Will Need
-You can download ready to print files from the internet quite easily, but if you have an idea for a print you will need to render your idea in a drawing program. You will likely want to use a parametric drafting program to best create your models. There are also sculpting tools that will render STL files but I have not tried them.
+You can download ready to print files from the internet quite easily, but if you have your own idea for a print you will need to render it in a drawing program. You will likely want to use a <a href="https://en.wikipedia.org/wiki/Parametric_design">parametric drafting program</a> to best create your models. There are also software sculpting tools that will create STL files but I have not tried them.
 
-Here are multiple options to try. These two are well supported with tons of video tutorials on youtube.
+Here are options to try. These two are well supported with tons of video tutorials on youtube.
 - Drawing/Modeling/Drafting Software
   - Fusion 360 (might be free for personal use) I have the most experience with this.
     - Parametric Drafting software for creating and editing stl files to print.
-      - https://www.autodesk.com/products/fusion-360/personal
+      - [https://www.autodesk.com/products/fusion-360/personal](https://www.autodesk.com/products/fusion-360/personal)
   - FreeCad (free software) I have never successfully used this to create a model. I have not given it the attention I have given Fusion 360.
     - Open Source (Free) Parametric Drafting software.
-      - https://www.freecadweb.org/
+      - [https://www.freecadweb.org/](https://www.freecadweb.org/)
 
 
 Once you have a model to print, you will need "Slicer" software to convert your model to GCode your printer can understand. Slicers generally take STL files as input. Most slicers are pretty easy to use. Create a new project and import/open your stl files. Arrange them on the print plate and slice.

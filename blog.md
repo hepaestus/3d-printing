@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog"
+title: "3D Printing Blog"
 ---
 # {{ site.owner }}'s
 ## {{ site.title }}
