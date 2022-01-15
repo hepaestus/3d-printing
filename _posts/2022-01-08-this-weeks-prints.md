@@ -16,7 +16,7 @@ I looked and looked all over Thingaverse and Thangs for printing inspiration but
 
 <img alt="Coffee Tamper" src="/3d-printing/images/coffee-tamper-fusion-360.png" style="width: 40%;"/>
 
-[Coffee Tamper Stl File](/3d-printing/stl-files/coffee_tamper_01.stl)
+[Coffee Tamper Stl File](https://github.com/hepaestus/3d-printing/blob/main/stl-files/coffee_tamper_01.stl)
 
 ### Printers
 - [Anycubic Photon S](https://www.anycubic.com/products/anycubic-photon-s)
@@ -38,14 +38,22 @@ I looked and looked all over Thingaverse and Thangs for printing inspiration but
 
 ### The Models
 The models I am printing this week:
-- [Coffee Tamper](../stl-files/coffee_tamper.stl)
+- [Coffee Tamper](https://github.com/hepaestus/3d-printing/blob/main/stl-files/coffee_tamper_01.stl)
 - [Barbarians](https://www.myminifactory.com/object/3d-print-btb-free-tribes-welcome-model-painting-guide-irya-the-barbarian-187108)
-- Traci's [Hero Forge Druid Mini](stl-files/traci_druid_OP1.stl)
+- Traci's [Hero Forge Druid Mini](https://github.com/hepaestus/3d-printing/blob/main/stl-files/traci_druid_OP1.stl)
 - Some [Cable Management](https://www.thingiverse.com/thing:5182759/files)
 - [Headphone holder](https://www.thingiverse.com/thing:5138450)
-- [Another Beholder](???)
+- Another Beholder (not sure which one)
 
 ### Print Results
-
-- <img alt="Coffee Tamper" src="/3d-printing/images/20220111_124716_coffee_tamper.jpg" style="width: 40%;"/>
--
+- SLA Prints
+  - Had bad results on my SLA printer for some reason. Not much to show for my efforts. I am going to recalibrate and see if I can fix things.
+  - Also resin prints are very hard to photograph, especially, the white resin. Grey is much easier to get a decent pre-paint photo.
+  <!--
+  - Hero Forge Druid
+     -  <img src="/3d-printing/images/hero-forge-druid.jpg" alt="Hero-Forge Druid">
+  -->
+- FDM Prints
+  - Cable Management Pics are boring.
+  - Coffee Tamper
+    - <img alt="Coffee Tamper" src="/3d-printing/images/20220111_124716_coffee_tamper.jpg" style="width: 40%;"/>
