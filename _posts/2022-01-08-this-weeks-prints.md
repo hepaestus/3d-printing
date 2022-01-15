@@ -8,9 +8,9 @@ category: blog
 author: Pete
 excerpt: "I was kinda all over the place printing stuff this week. Cable management and minis were on my mind."
 ---
-## {{ post.title }}
-### {{ post.subtitle }}
-{{ post.excerpt }}
+## {{ page.title }}
+### {{ page.subtitle }}
+{{ page.excerpt }}
 
 I looked and looked all over Thingaverse and Thangs for printing inspiration but ultimately it was mostly my messy desk that inspired my prints. Also coffee; the espresso maker needed a coffee tamper.
 
