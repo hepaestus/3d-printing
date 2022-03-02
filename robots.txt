@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /3d-printing/
+Disallow: /3d-printing/_layouts
+Disallow: /3d-printing/_posts
+Disallow: /3d-printing/_includes
+Disallow: /3d-printing/_data
+Disallow: /resume
+
+Sitemap: http://hepaestus.github.io/3d-printing/sitemap.xml
