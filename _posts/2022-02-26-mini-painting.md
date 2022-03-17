@@ -6,7 +6,7 @@ date: 2022-02-26 10:20:00 +0500
 tags: mini dnd painting
 category: blog
 author: Pete
-excerpt: "Trying out airbrushing base coats.  "
+excerpt: "Trying out airbrushing base coats."
 ---
 ### {{ page.subtitle }}
 {{ page.excerpt }}
