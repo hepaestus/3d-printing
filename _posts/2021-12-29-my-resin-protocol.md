@@ -4,6 +4,7 @@ title: "My Resin Protocol"
 subtitle: "As it stands today"
 date: 2021-12-29 11:16:00 +0500
 tags: 3d-printing blog dnd minis 'dnd minis' monsters resin SLA
+category: blog
 author: Pete
 ---
 This is my current resin protocol. By that, I mean that this is how I actually make prints in a step by step manner.

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Fan Shroud of Turin"
+subtitle: ""
 date: 2021-12-22 11:00:00 +0500
 tags: 3d-printing blog printer_upgrade
+category: blog
 author: Pete
 ---
 Today's print is the [Hero ME Gen5 Master Suite](https://www.thingiverse.com/thing:4460970).
