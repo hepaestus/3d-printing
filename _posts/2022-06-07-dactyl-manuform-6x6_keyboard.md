@@ -12,7 +12,6 @@ excerpt: I built a custom 3d printed ergonomic keyboard
 * [Code Repository](https://github.com/hepaestus/dactyl-manuform_kmk_firmware/tree/master/boards/dactyl-manuform/6x6)
 
 ### Pics 
-* ![keyboard1](https://raw.githubusercontent.com/hepaestus/dactyl-manuform_kmk_firmware/master/boards/dactyl-manuform/6x6/images/dactyl_manuform_6x6_keyboard-small.jpg)
 * ![keyboard](https://raw.githubusercontent.com/hepaestus/dactyl-manuform_kmk_firmware/master/boards/dactyl-manuform/6x6/images/dactyl_manuform_6x6_keyboard-small.jpg)
 * ![buttons](https://raw.githubusercontent.com/hepaestus/dactyl-manuform_kmk_firmware/master/boards/dactyl-manuform/6x6/images/buttons_with_diodes_installed-small.jpg)
 * ![installing switches](https://raw.githubusercontent.com/hepaestus/dactyl-manuform_kmk_firmware/master/boards/dactyl-manuform/6x6/images/installing_switches-small.jpg)
