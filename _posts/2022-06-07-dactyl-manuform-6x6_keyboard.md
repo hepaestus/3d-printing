@@ -4,8 +4,11 @@ title: "Dactly-Manuform 6x6 Keyboard"
 date: 2022-06-07 14:00:00 +0500
 tags: 3d-printing kmk keyboards blog python coding
 author: Pete
+excerpt: I built a custom 3d printed ergonomic keyboard
 ---
 ## Dactly Manuform Keyboard
+{{ post.excerpt }}
+
 * [Code Repository](https://github.com/hepaestus/dactyl-manuform_kmk_firmware/tree/master/boards/dactyl-manuform/6x6)
 
 ### Pics
