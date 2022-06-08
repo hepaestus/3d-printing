@@ -18,7 +18,7 @@ Using [COEX PLA](https://www.amazon.com/gp/offer-listing/B08VDRCLK5/ref=as_li_tl
 ![The Pink Fan Shroud Of Turin](https://github.com/hepaestus/3d-printing/blob/b3d3bc7b3686197f0bfdd330ce01774a9fcd2add/images/hero-me-gen6-fan-shroud-printing.jpg)
 
 It will be similar to this once assembled.
-![Hero ME Gen 6 Fan Shroud](/3d-printing/images/hero-me-gen6-fan-shroud.png)
+![Hero ME Gen 6 Fan Shroud](https://raw.githubusercontent.com/hepaestus/3d-printing/1fe9c02c19b0b66b10db9962d8942e070bdcaa26/images/hero-me-gen6-fan-shroud.png)
 
 ### Installation
 
