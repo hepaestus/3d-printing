@@ -15,7 +15,7 @@ Curretly the Ender 3 Pro OEM fan shroud only blows from one side. Making for poo
 
 Using [COEX PLA](https://www.amazon.com/gp/offer-listing/B08VDRCLK5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08VDRCLK5&linkCode=am2&tag=hepaestus-20&linkId=1d9d5e1f6549ff354ed286c84becbbcb) in pink.
 
-![The Pink Fan Shroud Of Turin](/3d-printing/images/hero-me-gen6-fan-shroud-printing.jpg)
+![The Pink Fan Shroud Of Turin](https://github.com/hepaestus/3d-printing/blob/b3d3bc7b3686197f0bfdd330ce01774a9fcd2add/images/hero-me-gen6-fan-shroud-printing.jpg)
 
 It will be similar to this once assembled.
 ![Hero ME Gen 6 Fan Shroud](/3d-printing/images/hero-me-gen6-fan-shroud.png)
