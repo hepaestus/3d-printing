@@ -6,8 +6,8 @@ tags: 3d-printing kmk keyboards blog python coding
 author: Pete
 excerpt: I built a custom 3d printed ergonomic keyboard
 ---
-## Dactly Manuform Keyboard
 {{ post.excerpt }}
+<!--more-->
 
 * [Code Repository](https://github.com/hepaestus/dactyl-manuform_kmk_firmware/tree/master/boards/dactyl-manuform/6x6)
 
