@@ -17,4 +17,13 @@
     <li><a href="{{ '/blog' | relative_url }}"><i class="fas fa-feather-alt"></i> 3D Printing Blog</a></li>
     <li><a href="https://github.com/hepaestus/3d-printing"><i class="far fa-bookmark"></i> Project Repository</a></li>
   </ul>
+
+  <h4 class="mt-3">Search</h4>
+  <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value, event);">
+    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value=""
+        placeholder="Search via Lunr.js" /></p>
+  </form>
+  <div id="lunrsearchresults">
+    <ul></ul>
+  </div>
 </div>

@@ -63,7 +63,7 @@ p.link {
 // added
 ul.link {
   list-style-type: none; /* Remove bullets */
-  margin: 0; /* To remove default bottom margin */ 
+  margin: 0; /* To remove default bottom margin */
   padding: 0.4px; /* To remove default left padding */
 }
 
@@ -148,10 +148,12 @@ kbd {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: calc(100vh - 108px);
+  height: calc(100vh);
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: visible;
+  /* overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
+  */
 }
 
 // Disables the scrollbar in Firefox
@@ -212,7 +214,8 @@ footer {
     padding: initial;
     display: initial;
     height: initial;
-    overflow: initial;    
+    overflow: initial;
+    overflow-y: visible;
   }
 
   footer {
@@ -254,7 +257,7 @@ footer {
     right:50px;
     top:52px;
   }
-  
+
   .link-wrapper {
     display: none !important;
   }
@@ -313,4 +316,3 @@ footer {
     color:#444;
   }
 }
-

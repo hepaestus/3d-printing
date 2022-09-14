@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Data Test Page"
+exclude_search: true
 ---
 ## {{ page.title }}
 

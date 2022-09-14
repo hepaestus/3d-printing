@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "3D Printing Blog"
+exclude_search: true
 ---
 # {{ site.owner }}'s
 ## {{ site.title }}
