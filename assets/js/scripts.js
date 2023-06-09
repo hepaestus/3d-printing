@@ -12,7 +12,7 @@ function lunr_search(term, e) {
         // more statements
         var ref = results[i]['ref'];
         var url = documents[ref]['url'];
-        url = url.replace("hepaestus.github.io", "hepaestus.com");
+        url = url.replace("hepaestus.github.io", "hepaestus.com/3d-printing");
         var title = documents[ref]['title'];
         var body = documents[ref]['body'].substring(0, 160) + '...';
         document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>" + body + "</span><br /><span class='url'>" + url + "</span></a></li>";
