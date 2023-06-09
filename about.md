@@ -3,7 +3,7 @@ layout: default
 title: "About Me"
 date: 2021-12-24 11:00:00 +0500
 author: Pete
-updated: December 24th 2021
+updated: June 8th 2023
 ---
 
 ## {{ page.title }}
@@ -18,6 +18,6 @@ updated: December 24th 2021
 - ⚡ Fun fact: I used to be a chemist.
 
 ### My Professional Resume
-[Peter E Olsen III Resume](https://hepaestus.github.io/resume)
+[Peter E Olsen III Resume](https://hepaestus.com/resume)
 
 Last Updated: {{ page.updated }}
