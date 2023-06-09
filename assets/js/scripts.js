@@ -14,7 +14,7 @@ function lunr_search(term, e) {
         var url = documents[ref]['url'];
         var title = documents[ref]['title'];
         var body = documents[ref]['body'].substring(0, 160) + '...';
-        document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>" + body + "</span><br /><span class='url'>" + url + "</span></a></li>";
+        document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='3d-printing" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>" + body + "</span><br /><span class='url'>" + url + "</span></a></li>";
       }
     } else {
       document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>No results found...</li>";
