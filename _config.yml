@@ -21,3 +21,5 @@ plugins:
   - jemoji
   - jekyll-remote-theme
   - jekyll-analytics
+include:
+  - /assets/js/documents.js

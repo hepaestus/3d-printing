@@ -1,8 +1,5 @@
 ---
-layout: none
-author: Pete
-date: 2022 - 09 - 14
-exclude_search: true
+
 ---
 {% assign counter = 0 %}
 var documents = [{% for page in site.pages %}{% if page.exclude_search or page.url contains '.xml' or page.url contains 'assets' or page.url contains '404' or page.url contains 'blog' %} {% else %} {
