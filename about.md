@@ -13,11 +13,8 @@ updated: June 8th 2023
 - 👯 I’m looking to collaborate on almost any cool disruptive app or project. I have some ideas too, but I need help.
 - 🤔 I’m looking for help with video editing.
 - 💬 Ask me about starting a career in IT. I am happy to mentor you and get you going on the right direction.
-- 📫 How to reach me: hepaestus@gmail.com
 - 😄 Pronouns: he/him
+- 📫 Reach me [here](https://hepaestus.com/contact).
 - ⚡ Fun fact: I used to be a chemist.
-
-### My Professional Resume
-[Peter E Olsen III Resume](https://hepaestus.com/resume)
 
 Last Updated: {{ page.updated }}
