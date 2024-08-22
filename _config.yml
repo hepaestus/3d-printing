@@ -1,5 +1,5 @@
-url: http://hepaestus.com
-baseurl: "/3d-printing/"
+url: http://print.hepaestus.com
+baseurl: "/"
 owner: "Pete Olsen III"
 timezone: America/New_York
 title: "3D Printing Manifesto"
