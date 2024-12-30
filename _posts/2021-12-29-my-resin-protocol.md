@@ -26,9 +26,9 @@ Today I am using Anycubic's [White EC UV Resin](https://www.anycubic.com/collect
 
 ### The Models
 The models I am printing today:
-- [Druid Mini](//stl-files/traci_druid_OP1.stl) from Heroforge's STL download.
-- A [Mimic mini](//stl-files/mimic-hungry.stl) from Thingiverse?
-- Some [Zombies](//stl-files/zombie-1-a.stl) [Zombies](/stl-files/zombie-2-a.stl) [Zombies](//stl-files/zombie-3-a.stl) from Thangs.
+- [Druid Mini](/stl-files/traci_druid_OP1.stl) from Heroforge's STL download.
+- A [Mimic mini](/stl-files/mimic-hungry.stl) from Thingiverse?
+- Some [Zombies](/stl-files/zombie-1-a.stl) [Zombies](/stl-files/zombie-2-a.stl) [Zombies](/stl-files/zombie-3-a.stl) from Thangs.
 
 ### The Tools
 - Plastic spatula
@@ -40,8 +40,8 @@ The models I am printing today:
 2. Open your slicer software and load your models into the scene or project.
 3. Arrange the models in the slicer so they do not touch or overlap. You can rotate and turn them to Tetris them in nice and tight.
 4. **Add supports** to your models in the slicer. One by one select your models and add lots of supports. Or let the software do it and then add some more supports!.
-   - ![Support Image From Above](//images/photon-workshop_models-and-supports-01.png)
-   - ![Support Image from Below](//images/photon-workshop_models-and-supports-02.png)
+   - ![Support Image From Above](/images/photon-workshop_models-and-supports-01.png)
+   - ![Support Image from Below](/images/photon-workshop_models-and-supports-02.png)
    - Yes! Even pre-supported models need more supports.
    - "Support Free"? Not on my watch.
    - The main thing you need to remember is that there are forces on your models while they print. There is the lifting force of the print plate, the adhesion force of the model on the print plate, and the suction force of the print on the print screen. When printing, the adhesion force of the print to the print plate needs to be greater than the opposing suction force. Therefore you need to look at the cross section of your print and make a judgement comparing the surface area of your first layers verses each subsequent layer. **In short; make more supports to give more surface area on the plate than the surface area of any slice of the model itself.**
@@ -59,7 +59,7 @@ The models I am printing today:
 16. Close up the printer.
 17. Slowly, using the LCD screen, lower the print bed into the resin and raise it up again. Do this twice to ensure the entire surface of the print plate has been covered with resin.
 18. Using the LCD screen, select the print menu and find your file. Select your file and then press start.
-    - ![Print Screen](//images/photon-s_print-screen.png)
+    - ![Print Screen](/images/photon-s_print-screen.png)
 19. Wait a while. Like 15 minutes
 20. Pause your print and let the print plate rise up so you can see underneath it. You *should* see some layers of your print stuck to the print plate.
 21. Restart/Un-Pause your print.
@@ -68,7 +68,7 @@ The models I am printing today:
 24. Wash your print and build plate for at least 5 minutes.
 25. Remove build plate from wash station and set on paper towels.
 26. Using the plastic spatula remove the prints from the print plate onto the paper towels.
-    - <img src="/3d-printing/images/20211229_141420_02.gif" style="width:40%; float: right; clear: both;"/>
+    - <img src="/images/20211229_141420_02.gif" style="width:40%; float: right; clear: both;"/>
 27. Briefly let the prints dry.
 28. Place prints in the cure station and cure for at least 5 minutes.
 29. Examine your prints and remove the supports.
@@ -82,11 +82,11 @@ For example: if you check your print 10 minutes after starting (step 18) and see
 
 I had an issue where the resin was not curing at all in the printer. Not on the print bed *or* the print screen. I tested the resin with a UV LED and it turned hard as expected. I was stumped. The printer was on and the light was on but the resin was not curing. A google search said I should turn the printer off and on again. I did just that and it magically fixed the issue. There was no explanation as to why this occurs.
 
-<img alt="Did you turn it off and on again" src="/3d-printing/images/did-you-turn-it-off-and-on-again.gif" style="margin: auto;" />
+<img alt="Did you turn it off and on again" src="/images/did-you-turn-it-off-and-on-again.gif" style="margin: auto;" />
 
 ### Finished Prints
 Full disclosure, this was not a perfect print. One of the minis lifted away from the build plate on one side and failed to print properly. I did get 2 zombies and a larger Mimic though.
 
-<img alt="Successful Prints" src="/3d-printing/images/20211229_180544_successful-prints.jpg" style="width: 30%;"/>
+<img alt="Successful Prints" src="/images/20211229_180544_successful-prints.jpg" style="width: 30%;"/>
 
 They need some paint to pop. I will get on that soon.

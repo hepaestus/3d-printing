@@ -9,9 +9,9 @@ The Marilith from the Dnd Monster Manual is an amazing monster. She has 6 arms a
 <!--more-->
 **Update**: This poor monster too was quickly destroyed despite her many powerfull magical attacks.
 
-![Maralith Model](//images/blog_marilith.png)
+![Maralith Model](/images/blog_marilith.png)
 
-![Marilith Print](//images/blog_marilith_print.png)
+![Marilith Print](/images/blog_marilith_print.png)
 ### Monster Stats
 Large fiend (demon), chaotic evil<br/>
 **Armor Class** 18 (natural armor)<br/>
